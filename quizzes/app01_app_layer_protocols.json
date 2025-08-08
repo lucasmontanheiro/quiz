@@ -1,0 +1,332 @@
+[
+  {
+    "id": "q1",
+    "question": "Which protocol is commonly used to transfer web pages over the internet?",
+    "options": {
+      "a": "FTP",
+      "b": "SMTP",
+      "c": "HTTP",
+      "d": "IMAP"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q2",
+    "question": "What HTTP method is typically used to retrieve data?",
+    "options": {
+      "a": "POST",
+      "b": "PUT",
+      "c": "GET",
+      "d": "DELETE"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q3",
+    "question": "Which HTTP response code class indicates a client error?",
+    "options": {
+      "a": "2XX",
+      "b": "3XX",
+      "c": "4XX",
+      "d": "5XX"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q4",
+    "question": "Which protocol is designed for sending emails?",
+    "options": {
+      "a": "IMAP",
+      "b": "POP3",
+      "c": "SMTP",
+      "d": "HTTP"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q5",
+    "question": "Which protocol allows bidirectional, real-time communication over a single TCP connection?",
+    "options": {
+      "a": "HTTP",
+      "b": "POP3",
+      "c": "WebSocket",
+      "d": "FTP"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q6",
+    "question": "Which HTTP method is idempotent and used to update resources?",
+    "options": {
+      "a": "POST",
+      "b": "PUT",
+      "c": "GET",
+      "d": "DELETE"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q7",
+    "question": "What does HTTP status code 200 mean?",
+    "options": {
+      "a": "Redirect",
+      "b": "OK",
+      "c": "Unauthorized",
+      "d": "Server error"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q8",
+    "question": "Which protocol is commonly used for receiving emails and keeping them on the server?",
+    "options": {
+      "a": "SMTP",
+      "b": "POP3",
+      "c": "IMAP",
+      "d": "FTP"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q9",
+    "question": "Which protocol is best suited for transferring files securely?",
+    "options": {
+      "a": "FTP",
+      "b": "SSH",
+      "c": "HTTP",
+      "d": "SMTP"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q10",
+    "question": "What does MQTT stand for?",
+    "options": {
+      "a": "Message Queuing Telemetry Transport",
+      "b": "Multi-Query Transmission Terminal",
+      "c": "Managed Queue Timing Tool",
+      "d": "Minimal Query Text Transport"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q11",
+    "question": "Which protocol is designed for real-time, peer-to-peer communication such as video calling?",
+    "options": {
+      "a": "HTTP",
+      "b": "FTP",
+      "c": "WebRTC",
+      "d": "POP3"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q12",
+    "question": "Which HTTP method is used to delete a resource?",
+    "options": {
+      "a": "POST",
+      "b": "PUT",
+      "c": "DELETE",
+      "d": "GET"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q13",
+    "question": "Which email protocol is designed to download and remove messages from the server?",
+    "options": {
+      "a": "SMTP",
+      "b": "IMAP",
+      "c": "POP3",
+      "d": "FTP"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q14",
+    "question": "What does the HTTP 404 status code represent?",
+    "options": {
+      "a": "Server error",
+      "b": "OK",
+      "c": "Moved permanently",
+      "d": "Not found"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "q15",
+    "question": "What is the role of the HTTP body?",
+    "options": {
+      "a": "Defines the URL",
+      "b": "Contains metadata",
+      "c": "Carries request or response data",
+      "d": "Sets connection rules"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q16",
+    "question": "Which protocol is commonly used for chat applications and live feeds?",
+    "options": {
+      "a": "IMAP",
+      "b": "WebSocket",
+      "c": "POP3",
+      "d": "SMTP"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q17",
+    "question": "Which HTTP response code class indicates success?",
+    "options": {
+      "a": "1XX",
+      "b": "2XX",
+      "c": "3XX",
+      "d": "5XX"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q18",
+    "question": "Which protocol allows procedure calls over a network?",
+    "options": {
+      "a": "FTP",
+      "b": "RPC",
+      "c": "POP3",
+      "d": "IMAP"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q19",
+    "question": "What does AMQP stand for?",
+    "options": {
+      "a": "Advanced Messaging Queue Protocol",
+      "b": "Asynchronous Mail Queue Protocol",
+      "c": "Active Messaging Query Path",
+      "d": "Advanced Mail Queueing Program"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q20",
+    "question": "What is a common use case for FTP?",
+    "options": {
+      "a": "Email delivery",
+      "b": "Chat messaging",
+      "c": "File transfer",
+      "d": "Remote procedure calls"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q21",
+    "question": "Which response code class indicates a server error in HTTP?",
+    "options": {
+      "a": "1XX",
+      "b": "3XX",
+      "c": "4XX",
+      "d": "5XX"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "q22",
+    "question": "Which protocol is used to encrypt terminal sessions over a network?",
+    "options": {
+      "a": "HTTP",
+      "b": "SMTP",
+      "c": "SSH",
+      "d": "POP3"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q23",
+    "question": "Which protocol is known for publish/subscribe messaging and is used in IoT?",
+    "options": {
+      "a": "SMTP",
+      "b": "MQTT",
+      "c": "POP3",
+      "d": "FTP"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q24",
+    "question": "Which HTTP method is typically used when submitting a form?",
+    "options": {
+      "a": "PUT",
+      "b": "GET",
+      "c": "POST",
+      "d": "DELETE"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q25",
+    "question": "Which protocol is best suited for sending real-time video and audio between browsers?",
+    "options": {
+      "a": "WebRTC",
+      "b": "SMTP",
+      "c": "RPC",
+      "d": "HTTP"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q26",
+    "question": "What is the purpose of the 3XX class in HTTP response codes?",
+    "options": {
+      "a": "Informational",
+      "b": "Success",
+      "c": "Redirection",
+      "d": "Client error"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q27",
+    "question": "Which protocol does not natively support real-time communication?",
+    "options": {
+      "a": "WebRTC",
+      "b": "MQTT",
+      "c": "HTTP",
+      "d": "WebSocket"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q28",
+    "question": "What does RPC stand for?",
+    "options": {
+      "a": "Remote Packet Communication",
+      "b": "Remote Protocol Client",
+      "c": "Remote Procedure Call",
+      "d": "Requesting Packet Connection"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q29",
+    "question": "Which protocol uses TCP port 80 by default?",
+    "options": {
+      "a": "HTTP",
+      "b": "SSH",
+      "c": "SMTP",
+      "d": "WebRTC"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q30",
+    "question": "Which protocol is commonly used to access a remote server’s shell?",
+    "options": {
+      "a": "FTP",
+      "b": "HTTP",
+      "c": "SSH",
+      "d": "SMTP"
+    },
+    "correct": "c"
+  }
+]

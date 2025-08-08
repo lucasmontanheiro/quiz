@@ -1,0 +1,333 @@
+
+[
+  {
+    "id": "q1",
+    "question": "What is the primary purpose of a database?",
+    "options": {
+      "a": "To run applications",
+      "b": "To store and retrieve data efficiently",
+      "c": "To design user interfaces",
+      "d": "To compile code"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q2",
+    "question": "Which of the following is a characteristic of a relational database?",
+    "options": {
+      "a": "Schema-less design",
+      "b": "Data is stored in tables with rows and columns",
+      "c": "No support for transactions",
+      "d": "Uses key-value pairs exclusively"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q3",
+    "question": "What does SQL stand for?",
+    "options": {
+      "a": "Structured Query Language",
+      "b": "Simple Query Language",
+      "c": "Standardized Query Logic",
+      "d": "System Query Link"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q4",
+    "question": "Which of the following is a NoSQL database type?",
+    "options": {
+      "a": "PostgreSQL",
+      "b": "MySQL",
+      "c": "MongoDB",
+      "d": "Oracle"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q5",
+    "question": "What is the main purpose of an index in a database?",
+    "options": {
+      "a": "To enforce data types",
+      "b": "To ensure data consistency",
+      "c": "To speed up data retrieval",
+      "d": "To back up data"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q6",
+    "question": "What does ACID stand for in the context of database transactions?",
+    "options": {
+      "a": "Atomicity, Consistency, Isolation, Durability",
+      "b": "Association, Concurrency, Integrity, Durability",
+      "c": "Atomicity, Concurrency, Isolation, Delegation",
+      "d": "Association, Consistency, Integrity, Delegation"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q7",
+    "question": "Which of the following is a key-value store?",
+    "options": {
+      "a": "Cassandra",
+      "b": "Redis",
+      "c": "Neo4j",
+      "d": "CouchDB"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q8",
+    "question": "What is normalization in a relational database?",
+    "options": {
+      "a": "The process of making a database faster",
+      "b": "The process of organizing columns and tables to minimize data redundancy",
+      "c": "The process of adding more data to a database",
+      "d": "The process of securing a database"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q9",
+    "question": "Which type of NoSQL database is best suited for storing and navigating relationships between entities?",
+    "options": {
+      "a": "Key-Value Store",
+      "b": "Document Store",
+      "c": "Column-Family Store",
+      "d": "Graph Database"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "q10",
+    "question": "What is a primary key in a relational database table?",
+    "options": {
+      "a": "A key that is used to encrypt the data",
+      "b": "A unique identifier for each record in the table",
+      "c": "A key that links to another table",
+      "d": "A key that is not unique"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q11",
+    "question": "Which of the following is a document-oriented NoSQL database?",
+    "options": {
+      "a": "Redis",
+      "b": "Cassandra",
+      "c": "MongoDB",
+      "d": "Neo4j"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q12",
+    "question": "What is a foreign key?",
+    "options": {
+      "a": "A key that is not from the local database",
+      "b": "A key used to link two tables together",
+      "c": "A key that is not a primary key",
+      "d": "A key that is used for sorting data"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q13",
+    "question": "Which of the following is a benefit of NoSQL databases over relational databases?",
+    "options": {
+      "a": "Stronger consistency guarantees",
+      "b": "Greater flexibility with schema-less design",
+      "c": "Support for complex joins",
+      "d": "Better for transactional data"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q14",
+    "question": "What does the 'C' in ACID properties guarantee?",
+    "options": {
+      "a": "That a transaction is treated as a single unit",
+      "b": "That the database remains in a consistent state after a transaction",
+      "c": "That concurrent transactions do not interfere with each other",
+      "d": "That the results of a transaction are permanent"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q15",
+    "question": "Which SQL clause is used to filter records?",
+    "options": {
+      "a": "SELECT",
+      "b": "FROM",
+      "c": "WHERE",
+      "d": "GROUP BY"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q16",
+    "question": "Which type of NoSQL database organizes data in columns instead of rows?",
+    "options": {
+      "a": "Key-Value Store",
+      "b": "Document Store",
+      "c": "Column-Family Store",
+      "d": "Graph Database"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q17",
+    "question": "What is the purpose of the `JOIN` clause in SQL?",
+    "options": {
+      "a": "To combine rows from two or more tables based on a related column",
+      "b": "To filter results",
+      "c": "To sort results",
+      "d": "To add new data"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q18",
+    "question": "Which of the following is a characteristic of a distributed database?",
+    "options": {
+      "a": "Data is stored on a single machine",
+      "b": "Data is spread across multiple physical locations",
+      "c": "It can only be a relational database",
+      "d": "It does not require a network connection"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q19",
+    "question": "What is sharding?",
+    "options": {
+      "a": "A type of data encryption",
+      "b": "A method of horizontally partitioning data in a database",
+      "c": "A way to create backups",
+      "d": "A type of SQL join"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q20",
+    "question": "Which of the following is a potential drawback of using indexes?",
+    "options": {
+      "a": "They slow down read operations",
+      "b": "They can slow down write operations (INSERT, UPDATE, DELETE)",
+      "c": "They increase data redundancy",
+      "d": "They prevent data from being sorted"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q21",
+    "question": "What is the CAP theorem in distributed systems?",
+    "options": {
+      "a": "A theorem about data encryption",
+      "b": "A theorem stating that it is impossible for a distributed data store to simultaneously provide more than two out of three of the following guarantees: Consistency, Availability, and Partition tolerance",
+      "c": "A theorem about database normalization",
+      "d": "A theorem about the maximum size of a database"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q22",
+    "question": "Which of the following is an example of a graph database?",
+    "options": {
+      "a": "MySQL",
+      "b": "Neo4j",
+      "c": "Redis",
+      "d": "MongoDB"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q23",
+    "question": "What is data modeling?",
+    "options": {
+      "a": "The process of writing SQL queries",
+      "b": "The process of creating a visual representation of a database schema",
+      "c": "The process of backing up a database",
+      "d": "The process of installing a database server"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q24",
+    "question": "In a relational database, what is a schema?",
+    "options": {
+      "a": "A backup of the database",
+      "b": "The structure of a database described in a formal language supported by the DBMS",
+      "c": "A user account with administrative privileges",
+      "d": "A log of all transactions"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q25",
+    "question": "Which SQL statement is used to extract data from a database?",
+    "options": {
+      "a": "GET",
+      "b": "OPEN",
+      "c": "SELECT",
+      "d": "EXTRACT"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q26",
+    "question": "What is a transaction in a database context?",
+    "options": {
+      "a": "A single operation or a sequence of operations performed as a single logical unit of work",
+      "b": "A connection to the database",
+      "c": "A user's permission level",
+      "d": "A backup of the database"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q27",
+    "question": "Which of the following is a valid reason to denormalize a database?",
+    "options": {
+      "a": "To improve read performance by reducing the number of joins",
+      "b": "To increase data redundancy",
+      "c": "To make the schema more complex",
+      "d": "To slow down write operations"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q28",
+    "question": "What is the difference between `DELETE`, `TRUNCATE`, and `DROP` in SQL?",
+    "options": {
+      "a": "They are all synonyms for the same operation",
+      "b": "DELETE removes rows, TRUNCATE removes all rows, and DROP removes the table",
+      "c": "DELETE removes the table, TRUNCATE removes all rows, and DROP removes the database",
+      "d": "DELETE removes all rows, TRUNCATE removes the table, and DROP removes the database"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q29",
+    "question": "Which of the following is a characteristic of a document store?",
+    "options": {
+      "a": "Data is stored in tables with a fixed schema",
+      "b": "Data is stored in self-describing documents, like JSON or BSON",
+      "c": "It is optimized for complex joins",
+      "d": "It uses SQL as its query language"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q30",
+    "question": "What is the 'I' in ACID properties?",
+    "options": {
+      "a": "Integrity",
+      "b": "Isolation",
+      "c": "Inheritance",
+      "d": "Index"
+    },
+    "correct": "b"
+  }
+]

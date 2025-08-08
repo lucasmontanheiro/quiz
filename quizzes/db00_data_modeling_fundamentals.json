@@ -1,0 +1,222 @@
+[
+  {
+    "id": "q1",
+    "question": "What does an ER diagram represent?",
+    "options": {
+      "a": "System performance metrics",
+      "b": "Application workflows",
+      "c": "Entities and their relationships",
+      "d": "User interface layout"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q2",
+    "question": "In ER modeling, what is an entity?",
+    "options": {
+      "a": "A column in a table",
+      "b": "A function or procedure",
+      "c": "A real-world object or concept",
+      "d": "A type of query"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q3",
+    "question": "Which of the following is an example of an attribute?",
+    "options": {
+      "a": "User",
+      "b": "places",
+      "c": "Order",
+      "d": "Email"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "q4",
+    "question": "What does a primary key do in a data model?",
+    "options": {
+      "a": "Links tables together",
+      "b": "Allows null values",
+      "c": "Uniquely identifies a record",
+      "d": "Defines table size"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q5",
+    "question": "Which term describes how many instances of one entity can relate to another?",
+    "options": {
+      "a": "Attribute",
+      "b": "Cardinality",
+      "c": "Key constraint",
+      "d": "Normalization"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q6",
+    "question": "Which relationship type connects one entity to many of another?",
+    "options": {
+      "a": "One-to-one",
+      "b": "Many-to-many",
+      "c": "One-to-many",
+      "d": "Recursive"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q7",
+    "question": "Which concept aims to reduce data redundancy in relational databases?",
+    "options": {
+      "a": "Denormalization",
+      "b": "Caching",
+      "c": "Normalization",
+      "d": "Sharding"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q8",
+    "question": "Which of the following is a use case for denormalization?",
+    "options": {
+      "a": "Minimizing read performance",
+      "b": "Ensuring data consistency",
+      "c": "Optimizing write speed",
+      "d": "Improving read performance"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "q9",
+    "question": "What is a common downside of denormalization?",
+    "options": {
+      "a": "Increased joins",
+      "b": "Data duplication",
+      "c": "Improved consistency",
+      "d": "Reduced read speed"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q10",
+    "question": "Which ER modeling component defines how two entities interact?",
+    "options": {
+      "a": "Attribute",
+      "b": "Primary key",
+      "c": "Relationship",
+      "d": "Index"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q11",
+    "question": "Which of the following best describes a one-to-one relationship?",
+    "options": {
+      "a": "Each entity in one table matches multiple in another",
+      "b": "Each entity relates to exactly one entity in another table",
+      "c": "Entities in both tables are unrelated",
+      "d": "Many entities relate to many others"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q12",
+    "question": "Which model is better for highly analytical and read-heavy systems?",
+    "options": {
+      "a": "Normalized",
+      "b": "Denormalized",
+      "c": "Transactional",
+      "d": "ER model"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q13",
+    "question": "In normalization, splitting data into multiple tables helps achieve what?",
+    "options": {
+      "a": "Higher redundancy",
+      "b": "Data fragmentation",
+      "c": "Better consistency and integrity",
+      "d": "Faster joins"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q14",
+    "question": "Which of the following might be duplicated in a denormalized Order table?",
+    "options": {
+      "a": "OrderID",
+      "b": "ProductID",
+      "c": "UserName and Email",
+      "d": "Database schema"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q15",
+    "question": "Why would you use a surrogate key instead of a natural key as a primary key?",
+    "options": {
+      "a": "To improve readability",
+      "b": "To allow duplicates",
+      "c": "To simplify joins and indexing",
+      "d": "To support variable-length text"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q16",
+    "question": "Which of the following is NOT a goal of normalization?",
+    "options": {
+      "a": "Eliminate data redundancy",
+      "b": "Improve data integrity",
+      "c": "Improve read speed",
+      "d": "Structure data logically"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q17",
+    "question": "Which ER modeling concept is used to describe a User placing many Orders?",
+    "options": {
+      "a": "One-to-one",
+      "b": "Many-to-one",
+      "c": "One-to-many",
+      "d": "Many-to-many"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q18",
+    "question": "What is the key benefit of using ER modeling during database design?",
+    "options": {
+      "a": "Faster deployment",
+      "b": "Visual clarity of data relationships",
+      "c": "Elimination of SQL code",
+      "d": "Automated backup support"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q19",
+    "question": "Which of the following would be a valid entity in an ER model?",
+    "options": {
+      "a": "Name",
+      "b": "Place",
+      "c": "Order",
+      "d": "Integer"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q20",
+    "question": "Which process may introduce controlled redundancy for speed?",
+    "options": {
+      "a": "Sharding",
+      "b": "Partitioning",
+      "c": "Denormalization",
+      "d": "Indexing"
+    },
+    "correct": "c"
+  }
+]

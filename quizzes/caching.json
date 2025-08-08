@@ -1,0 +1,222 @@
+[
+  {
+    "id": "q1",
+    "question": "What is the primary purpose of caching in a system?",
+    "options": {
+      "a": "To secure sensitive data",
+      "b": "To improve data consistency",
+      "c": "To reduce data retrieval latency",
+      "d": "To store backups"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q2",
+    "question": "Which of the following is a common type of cache eviction policy?",
+    "options": {
+      "a": "First In First Out (FIFO)",
+      "b": "Least Recently Used (LRU)",
+      "c": "Most Recently Added (MRA)",
+      "d": "Fastest Access Time (FAT)"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q3",
+    "question": "What is a write-through cache?",
+    "options": {
+      "a": "Writes are stored only in the cache",
+      "b": "Writes bypass the cache",
+      "c": "Writes are done in both cache and backing store",
+      "d": "Writes are delayed until eviction"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q4",
+    "question": "Which caching strategy allows stale data to be served temporarily?",
+    "options": {
+      "a": "Write-through",
+      "b": "Write-back",
+      "c": "Cache-aside",
+      "d": "Stale-while-revalidate"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "q5",
+    "question": "Which of the following best describes cache-aside strategy?",
+    "options": {
+      "a": "Cache pulls data on its own",
+      "b": "Application reads/writes data to cache explicitly",
+      "c": "Writes are done only to the cache",
+      "d": "Cache updates are handled by a scheduler"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q6",
+    "question": "What is cache invalidation?",
+    "options": {
+      "a": "Storing large files in cache",
+      "b": "Compressing cache content",
+      "c": "Removing outdated cache entries",
+      "d": "Writing to both cache and database"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q7",
+    "question": "Which of the following is a downside of caching?",
+    "options": {
+      "a": "Slower access time",
+      "b": "Higher latency",
+      "c": "Potential for stale data",
+      "d": "Increased CPU usage"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q8",
+    "question": "Redis is an example of what type of cache?",
+    "options": {
+      "a": "Disk-based cache",
+      "b": "In-memory cache",
+      "c": "Distributed file cache",
+      "d": "Client-side cache"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q9",
+    "question": "What does TTL stand for in caching?",
+    "options": {
+      "a": "Time to Launch",
+      "b": "Time to Lock",
+      "c": "Time to Live",
+      "d": "Total Transaction Load"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q10",
+    "question": "Why might a developer choose not to cache certain data?",
+    "options": {
+      "a": "The data is frequently accessed",
+      "b": "The data is very static",
+      "c": "The data changes very often",
+      "d": "The data is small in size"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q11",
+    "question": "Which technique can help ensure cache consistency?",
+    "options": {
+      "a": "Database replication",
+      "b": "Load balancing",
+      "c": "Write-through policy",
+      "d": "Message queue"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q12",
+    "question": "Which cache eviction policy prioritizes removing items that haven’t been accessed for the longest time?",
+    "options": {
+      "a": "LFU",
+      "b": "MRU",
+      "c": "LRU",
+      "d": "FIFO"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q13",
+    "question": "What kind of cache is typically used by web browsers?",
+    "options": {
+      "a": "In-memory cache",
+      "b": "Distributed cache",
+      "c": "Disk cache",
+      "d": "Write-through cache"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q14",
+    "question": "What is the main advantage of using a distributed cache?",
+    "options": {
+      "a": "Lower storage cost",
+      "b": "Simpler configuration",
+      "c": "Increased scalability",
+      "d": "Faster CPU performance"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q15",
+    "question": "What happens in a write-back cache when data is modified?",
+    "options": {
+      "a": "Data is immediately written to the database",
+      "b": "Data is discarded",
+      "c": "Data is only written to the cache at first",
+      "d": "Cache is bypassed"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q16",
+    "question": "Which of the following helps reduce cache stampede?",
+    "options": {
+      "a": "Write-back policy",
+      "b": "Read replication",
+      "c": "Mutex locking",
+      "d": "CDN caching"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q17",
+    "question": "What is cache warm-up?",
+    "options": {
+      "a": "Resetting cache content",
+      "b": "Preloading frequently accessed data",
+      "c": "Evicting old entries",
+      "d": "Backing up cache"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q18",
+    "question": "How does LFU (Least Frequently Used) eviction policy work?",
+    "options": {
+      "a": "Removes the newest item",
+      "b": "Removes the oldest item",
+      "c": "Removes the most accessed item",
+      "d": "Removes the least accessed item"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "q19",
+    "question": "What is a potential drawback of using very large TTL values?",
+    "options": {
+      "a": "Increased network usage",
+      "b": "Excessive write operations",
+      "c": "More frequent cache misses",
+      "d": "Higher chance of serving stale data"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "q20",
+    "question": "Which cache strategy is best for data that rarely changes?",
+    "options": {
+      "a": "Write-back",
+      "b": "Write-through",
+      "c": "Read-through",
+      "d": "Cache-aside"
+    },
+    "correct": "c"
+  }
+]

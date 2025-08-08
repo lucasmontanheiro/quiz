@@ -1,0 +1,552 @@
+[
+  {
+    "id": "q1",
+    "question": "What is a foundation model in generative AI?",
+    "options": {
+      "a": "A model designed for a single task",
+      "b": "A model trained on small datasets",
+      "c": "A large model trained on diverse data for many tasks",
+      "d": "A manually coded algorithm"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q2",
+    "question": "Which learning method uses labeled data?",
+    "options": {
+      "a": "Reinforcement learning",
+      "b": "Unsupervised learning",
+      "c": "Supervised learning",
+      "d": "Transfer learning"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q3",
+    "question": "What is the main focus of generative AI?",
+    "options": {
+      "a": "Classification",
+      "b": "Prediction",
+      "c": "Creating new content",
+      "d": "Sorting data"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q4",
+    "question": "What is a foundation model in generative AI?",
+    "options": {
+      "a": "A model designed for a single task",
+      "b": "A model trained on small datasets",
+      "c": "A large model trained on diverse data for many tasks",
+      "d": "A manually coded algorithm"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q5",
+    "question": "Which learning method uses labeled data?",
+    "options": {
+      "a": "Reinforcement learning",
+      "b": "Unsupervised learning",
+      "c": "Supervised learning",
+      "d": "Transfer learning"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q6",
+    "question": "What is the main focus of generative AI?",
+    "options": {
+      "a": "Classification",
+      "b": "Prediction",
+      "c": "Creating new content",
+      "d": "Sorting data"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q7",
+    "question": "What is a foundation model in generative AI?",
+    "options": {
+      "a": "A model designed for a single task",
+      "b": "A model trained on small datasets",
+      "c": "A large model trained on diverse data for many tasks",
+      "d": "A manually coded algorithm"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q8",
+    "question": "Which learning method uses labeled data?",
+    "options": {
+      "a": "Reinforcement learning",
+      "b": "Unsupervised learning",
+      "c": "Supervised learning",
+      "d": "Transfer learning"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q9",
+    "question": "What is the main focus of generative AI?",
+    "options": {
+      "a": "Classification",
+      "b": "Prediction",
+      "c": "Creating new content",
+      "d": "Sorting data"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q10",
+    "question": "What is a foundation model in generative AI?",
+    "options": {
+      "a": "A model designed for a single task",
+      "b": "A model trained on small datasets",
+      "c": "A large model trained on diverse data for many tasks",
+      "d": "A manually coded algorithm"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q11",
+    "question": "Which learning method uses labeled data?",
+    "options": {
+      "a": "Reinforcement learning",
+      "b": "Unsupervised learning",
+      "c": "Supervised learning",
+      "d": "Transfer learning"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q12",
+    "question": "What is the main focus of generative AI?",
+    "options": {
+      "a": "Classification",
+      "b": "Prediction",
+      "c": "Creating new content",
+      "d": "Sorting data"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q13",
+    "question": "What is a foundation model in generative AI?",
+    "options": {
+      "a": "A model designed for a single task",
+      "b": "A model trained on small datasets",
+      "c": "A large model trained on diverse data for many tasks",
+      "d": "A manually coded algorithm"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q14",
+    "question": "Which learning method uses labeled data?",
+    "options": {
+      "a": "Reinforcement learning",
+      "b": "Unsupervised learning",
+      "c": "Supervised learning",
+      "d": "Transfer learning"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q15",
+    "question": "What is the main focus of generative AI?",
+    "options": {
+      "a": "Classification",
+      "b": "Prediction",
+      "c": "Creating new content",
+      "d": "Sorting data"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q16",
+    "question": "What is Gemini in the context of Google Cloud?",
+    "options": {
+      "a": "A cloud storage system",
+      "b": "A gen AI model and assistant suite",
+      "c": "A database service",
+      "d": "A billing platform"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q17",
+    "question": "Which tool integrates generative AI into Google Workspace?",
+    "options": {
+      "a": "Vertex AI",
+      "b": "Gemini for Workspace",
+      "c": "NotebookLM",
+      "d": "AppSheet"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q18",
+    "question": "What is Vertex AI Studio used for?",
+    "options": {
+      "a": "Real-time messaging",
+      "b": "Cloud billing management",
+      "c": "Building production-grade AI apps",
+      "d": "Creating websites"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q19",
+    "question": "What is Gemini in the context of Google Cloud?",
+    "options": {
+      "a": "A cloud storage system",
+      "b": "A gen AI model and assistant suite",
+      "c": "A database service",
+      "d": "A billing platform"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q20",
+    "question": "Which tool integrates generative AI into Google Workspace?",
+    "options": {
+      "a": "Vertex AI",
+      "b": "Gemini for Workspace",
+      "c": "NotebookLM",
+      "d": "AppSheet"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q21",
+    "question": "What is Vertex AI Studio used for?",
+    "options": {
+      "a": "Real-time messaging",
+      "b": "Cloud billing management",
+      "c": "Building production-grade AI apps",
+      "d": "Creating websites"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q22",
+    "question": "What is Gemini in the context of Google Cloud?",
+    "options": {
+      "a": "A cloud storage system",
+      "b": "A gen AI model and assistant suite",
+      "c": "A database service",
+      "d": "A billing platform"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q23",
+    "question": "Which tool integrates generative AI into Google Workspace?",
+    "options": {
+      "a": "Vertex AI",
+      "b": "Gemini for Workspace",
+      "c": "NotebookLM",
+      "d": "AppSheet"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q24",
+    "question": "What is Vertex AI Studio used for?",
+    "options": {
+      "a": "Real-time messaging",
+      "b": "Cloud billing management",
+      "c": "Building production-grade AI apps",
+      "d": "Creating websites"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q25",
+    "question": "What is Gemini in the context of Google Cloud?",
+    "options": {
+      "a": "A cloud storage system",
+      "b": "A gen AI model and assistant suite",
+      "c": "A database service",
+      "d": "A billing platform"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q26",
+    "question": "Which tool integrates generative AI into Google Workspace?",
+    "options": {
+      "a": "Vertex AI",
+      "b": "Gemini for Workspace",
+      "c": "NotebookLM",
+      "d": "AppSheet"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q27",
+    "question": "What is Vertex AI Studio used for?",
+    "options": {
+      "a": "Real-time messaging",
+      "b": "Cloud billing management",
+      "c": "Building production-grade AI apps",
+      "d": "Creating websites"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q28",
+    "question": "What is Gemini in the context of Google Cloud?",
+    "options": {
+      "a": "A cloud storage system",
+      "b": "A gen AI model and assistant suite",
+      "c": "A database service",
+      "d": "A billing platform"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q29",
+    "question": "Which tool integrates generative AI into Google Workspace?",
+    "options": {
+      "a": "Vertex AI",
+      "b": "Gemini for Workspace",
+      "c": "NotebookLM",
+      "d": "AppSheet"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q30",
+    "question": "What is Vertex AI Studio used for?",
+    "options": {
+      "a": "Real-time messaging",
+      "b": "Cloud billing management",
+      "c": "Building production-grade AI apps",
+      "d": "Creating websites"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q31",
+    "question": "What does prompt engineering aim to do?",
+    "options": {
+      "a": "Improve network latency",
+      "b": "Reduce storage cost",
+      "c": "Optimize model inputs for better output",
+      "d": "Create databases"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q32",
+    "question": "What is prompt chaining?",
+    "options": {
+      "a": "Encrypting AI outputs",
+      "b": "Connecting prompts for contextual flow",
+      "c": "Building a chatbot UI",
+      "d": "Deploying AI to the edge"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q33",
+    "question": "What is RAG in AI?",
+    "options": {
+      "a": "Resource Allocation Generator",
+      "b": "Retrieval-Augmented Generation",
+      "c": "Remote AI Gateway",
+      "d": "Real-time Agent Generation"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q34",
+    "question": "What does prompt engineering aim to do?",
+    "options": {
+      "a": "Improve network latency",
+      "b": "Reduce storage cost",
+      "c": "Optimize model inputs for better output",
+      "d": "Create databases"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q35",
+    "question": "What is prompt chaining?",
+    "options": {
+      "a": "Encrypting AI outputs",
+      "b": "Connecting prompts for contextual flow",
+      "c": "Building a chatbot UI",
+      "d": "Deploying AI to the edge"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q36",
+    "question": "What is RAG in AI?",
+    "options": {
+      "a": "Resource Allocation Generator",
+      "b": "Retrieval-Augmented Generation",
+      "c": "Remote AI Gateway",
+      "d": "Real-time Agent Generation"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q37",
+    "question": "What does prompt engineering aim to do?",
+    "options": {
+      "a": "Improve network latency",
+      "b": "Reduce storage cost",
+      "c": "Optimize model inputs for better output",
+      "d": "Create databases"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q38",
+    "question": "What is prompt chaining?",
+    "options": {
+      "a": "Encrypting AI outputs",
+      "b": "Connecting prompts for contextual flow",
+      "c": "Building a chatbot UI",
+      "d": "Deploying AI to the edge"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q39",
+    "question": "What is RAG in AI?",
+    "options": {
+      "a": "Resource Allocation Generator",
+      "b": "Retrieval-Augmented Generation",
+      "c": "Remote AI Gateway",
+      "d": "Real-time Agent Generation"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q40",
+    "question": "What does prompt engineering aim to do?",
+    "options": {
+      "a": "Improve network latency",
+      "b": "Reduce storage cost",
+      "c": "Optimize model inputs for better output",
+      "d": "Create databases"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q41",
+    "question": "What does responsible AI aim to ensure?",
+    "options": {
+      "a": "More profits",
+      "b": "Shorter prompts",
+      "c": "Ethical and safe AI usage",
+      "d": "Faster cloud speeds"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q42",
+    "question": "What is the top-down strategy in gen AI?",
+    "options": {
+      "a": "Team-first implementation",
+      "b": "Customer-driven design",
+      "c": "Leadership setting vision",
+      "d": "Marketing-focused rollout"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q43",
+    "question": "What factor affects gen AI response time?",
+    "options": {
+      "a": "Model temperature",
+      "b": "Latency",
+      "c": "User interface design",
+      "d": "Prompt clarity"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q44",
+    "question": "What does responsible AI aim to ensure?",
+    "options": {
+      "a": "More profits",
+      "b": "Shorter prompts",
+      "c": "Ethical and safe AI usage",
+      "d": "Faster cloud speeds"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q45",
+    "question": "What is the top-down strategy in gen AI?",
+    "options": {
+      "a": "Team-first implementation",
+      "b": "Customer-driven design",
+      "c": "Leadership setting vision",
+      "d": "Marketing-focused rollout"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q46",
+    "question": "What factor affects gen AI response time?",
+    "options": {
+      "a": "Model temperature",
+      "b": "Latency",
+      "c": "User interface design",
+      "d": "Prompt clarity"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q47",
+    "question": "What does responsible AI aim to ensure?",
+    "options": {
+      "a": "More profits",
+      "b": "Shorter prompts",
+      "c": "Ethical and safe AI usage",
+      "d": "Faster cloud speeds"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q48",
+    "question": "What is the top-down strategy in gen AI?",
+    "options": {
+      "a": "Team-first implementation",
+      "b": "Customer-driven design",
+      "c": "Leadership setting vision",
+      "d": "Marketing-focused rollout"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q49",
+    "question": "What factor affects gen AI response time?",
+    "options": {
+      "a": "Model temperature",
+      "b": "Latency",
+      "c": "User interface design",
+      "d": "Prompt clarity"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q50",
+    "question": "What does responsible AI aim to ensure?",
+    "options": {
+      "a": "More profits",
+      "b": "Shorter prompts",
+      "c": "Ethical and safe AI usage",
+      "d": "Faster cloud speeds"
+    },
+    "correct": "c"
+  }
+]

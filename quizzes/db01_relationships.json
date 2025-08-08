@@ -1,0 +1,222 @@
+[
+  {
+    "id": "q1",
+    "question": "What does a one-to-one relationship imply?",
+    "options": {
+      "a": "One record in a table relates to multiple in another",
+      "b": "Each record in both tables relates to exactly one in the other",
+      "c": "Each record has no relation",
+      "d": "Many records relate to many others"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q2",
+    "question": "Which relationship type is best represented by a user and their passport?",
+    "options": {
+      "a": "One-to-many",
+      "b": "Many-to-many",
+      "c": "One-to-one",
+      "d": "Self-referencing"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q3",
+    "question": "In a one-to-many relationship, which side typically holds the foreign key?",
+    "options": {
+      "a": "The 'one' side",
+      "b": "The 'many' side",
+      "c": "Both sides",
+      "d": "Neither side"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q4",
+    "question": "What is required to model a many-to-many relationship in a relational database?",
+    "options": {
+      "a": "A foreign key in one table",
+      "b": "Two primary keys in one table",
+      "c": "A join table with two foreign keys",
+      "d": "Self-joins"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q5",
+    "question": "Which of the following best represents a one-to-many relationship?",
+    "options": {
+      "a": "One teacher to many students",
+      "b": "Many authors to many books",
+      "c": "One product to one order",
+      "d": "One order to one payment"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q6",
+    "question": "Which is true about a many-to-many relationship?",
+    "options": {
+      "a": "Each record relates to one record in the other table",
+      "b": "Only one record is needed in each table",
+      "c": "It requires a mapping table",
+      "d": "It cannot be represented in SQL"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q7",
+    "question": "What type of relationship is a user and multiple email addresses?",
+    "options": {
+      "a": "One-to-one",
+      "b": "One-to-many",
+      "c": "Many-to-many",
+      "d": "None"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q8",
+    "question": "Which relationship allows duplication of foreign keys across rows?",
+    "options": {
+      "a": "One-to-one",
+      "b": "One-to-many",
+      "c": "Many-to-one",
+      "d": "Many-to-many"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q9",
+    "question": "A many-to-one relationship is the inverse of which relationship?",
+    "options": {
+      "a": "One-to-one",
+      "b": "Self-join",
+      "c": "One-to-many",
+      "d": "Hierarchical"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q10",
+    "question": "Which relationship is appropriate for books and authors, where each book can have multiple authors and each author can write multiple books?",
+    "options": {
+      "a": "One-to-many",
+      "b": "One-to-one",
+      "c": "Many-to-many",
+      "d": "None"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q11",
+    "question": "What type of relationship would best represent customers and their orders?",
+    "options": {
+      "a": "One-to-one",
+      "b": "One-to-many",
+      "c": "Many-to-many",
+      "d": "None"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q12",
+    "question": "Which is a good use case for a one-to-one relationship?",
+    "options": {
+      "a": "Tags for posts",
+      "b": "User and user profile",
+      "c": "Orders and items",
+      "d": "Students and classes"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q13",
+    "question": "What do foreign keys enable in relational databases?",
+    "options": {
+      "a": "Data encryption",
+      "b": "Schema validation",
+      "c": "Entity relationships",
+      "d": "Table partitioning"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q14",
+    "question": "In a many-to-many setup, what is the typical primary key in the join table?",
+    "options": {
+      "a": "A generated UUID",
+      "b": "Foreign key of first table only",
+      "c": "Composite key of both foreign keys",
+      "d": "Auto-increment ID only"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q15",
+    "question": "How do you enforce a one-to-one relationship in SQL?",
+    "options": {
+      "a": "Place a foreign key without constraints",
+      "b": "Use a unique constraint on the foreign key",
+      "c": "Allow multiple entries with the same key",
+      "d": "Use a mapping table"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q16",
+    "question": "Which relationship is most appropriate for a product with multiple tags, and tags associated with multiple products?",
+    "options": {
+      "a": "One-to-one",
+      "b": "One-to-many",
+      "c": "Many-to-many",
+      "d": "Self-join"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q17",
+    "question": "Which constraint helps maintain referential integrity in relationships?",
+    "options": {
+      "a": "DEFAULT",
+      "b": "NOT NULL",
+      "c": "FOREIGN KEY",
+      "d": "CHECK"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q18",
+    "question": "If table A has many records referencing one record in table B, what type of relationship is this?",
+    "options": {
+      "a": "One-to-many",
+      "b": "Many-to-many",
+      "c": "One-to-one",
+      "d": "Many-to-one"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "q19",
+    "question": "What is a drawback of many-to-many relationships?",
+    "options": {
+      "a": "They cannot be queried",
+      "b": "They require multiple schemas",
+      "c": "They need an additional join table",
+      "d": "They create data loss"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q20",
+    "question": "Which relationship is best for modeling a hierarchical structure like employees and their managers?",
+    "options": {
+      "a": "One-to-one",
+      "b": "One-to-many",
+      "c": "Many-to-many",
+      "d": "Self-referencing one-to-many"
+    },
+    "correct": "d"
+  }
+]
