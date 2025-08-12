@@ -1,0 +1,222 @@
+[
+  {
+    "id": "q61",
+    "question": "Which type of database stores data in tables with rows and columns?",
+    "options": {
+      "a": "Relational",
+      "b": "Non-relational",
+      "c": "Key-value",
+      "d": "Graph"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q62",
+    "question": "Which type of database is best for storing JSON documents?",
+    "options": {
+      "a": "Relational",
+      "b": "Non-relational",
+      "c": "Columnar",
+      "d": "In-memory"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q63",
+    "question": "Which database type typically supports SQL for querying?",
+    "options": {
+      "a": "Relational",
+      "b": "Non-relational",
+      "c": "Key-value",
+      "d": "Document"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q64",
+    "question": "Which is an example of a relational database?",
+    "options": {
+      "a": "MongoDB",
+      "b": "PostgreSQL",
+      "c": "Cassandra",
+      "d": "DynamoDB"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q65",
+    "question": "Which is an example of a non-relational database?",
+    "options": {
+      "a": "MySQL",
+      "b": "MongoDB",
+      "c": "PostgreSQL",
+      "d": "Oracle Database"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q66",
+    "question": "What is the primary advantage of relational databases?",
+    "options": {
+      "a": "Schema flexibility",
+      "b": "Strict consistency and relationships",
+      "c": "Horizontal scalability",
+      "d": "Storing unstructured data"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q67",
+    "question": "What is the primary advantage of non-relational databases?",
+    "options": {
+      "a": "Complex joins",
+      "b": "Flexible schemas and scalability",
+      "c": "ACID compliance",
+      "d": "Fixed structure"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q68",
+    "question": "Which database type is best for storing hierarchical or graph data?",
+    "options": {
+      "a": "Relational",
+      "b": "Non-relational",
+      "c": "Flat-file",
+      "d": "Columnar"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q69",
+    "question": "Which database type usually enforces a predefined schema?",
+    "options": {
+      "a": "Relational",
+      "b": "Non-relational",
+      "c": "Document",
+      "d": "Key-value"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q70",
+    "question": "In relational databases, what is used to uniquely identify each row?",
+    "options": {
+      "a": "Foreign key",
+      "b": "Primary key",
+      "c": "Index",
+      "d": "Constraint"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q71",
+    "question": "Which type of database can scale horizontally more easily in most cases?",
+    "options": {
+      "a": "Relational",
+      "b": "Non-relational",
+      "c": "Flat-file",
+      "d": "Spreadsheet"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q72",
+    "question": "Which term describes a database that guarantees ACID properties?",
+    "options": {
+      "a": "Relational",
+      "b": "Non-relational",
+      "c": "Eventually consistent",
+      "d": "Key-value"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q73",
+    "question": "Which type of database is Firestore considered?",
+    "options": {
+      "a": "Relational",
+      "b": "Non-relational",
+      "c": "Columnar",
+      "d": "Graph"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q74",
+    "question": "Which type of database is Cloud SQL considered?",
+    "options": {
+      "a": "Relational",
+      "b": "Non-relational",
+      "c": "Document",
+      "d": "Key-value"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q75",
+    "question": "What does 'NoSQL' stand for?",
+    "options": {
+      "a": "Not Only SQL",
+      "b": "No Structured Query Language",
+      "c": "Non-Standard Query Logic",
+      "d": "No Sequential Queries"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q76",
+    "question": "Which is a disadvantage of relational databases in large-scale distributed systems?",
+    "options": {
+      "a": "Lack of schema enforcement",
+      "b": "Difficulty in horizontal scaling",
+      "c": "Lack of ACID guarantees",
+      "d": "Low data integrity"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q77",
+    "question": "Which is a disadvantage of non-relational databases?",
+    "options": {
+      "a": "Less flexibility in data models",
+      "b": "Weaker consistency models in some cases",
+      "c": "Cannot store JSON data",
+      "d": "Cannot scale horizontally"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q78",
+    "question": "Which database type is ideal for an application that needs strong relationships between data entities?",
+    "options": {
+      "a": "Relational",
+      "b": "Non-relational",
+      "c": "Graph",
+      "d": "Columnar"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q79",
+    "question": "Which database type is commonly used for caching and high-speed lookups?",
+    "options": {
+      "a": "Relational",
+      "b": "Key-value non-relational",
+      "c": "Columnar",
+      "d": "Graph"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q80",
+    "question": "Which is an example of a use case better suited for a non-relational database?",
+    "options": {
+      "a": "Bank transaction system",
+      "b": "Social media feed storage",
+      "c": "Airline reservation system",
+      "d": "Inventory management"
+    },
+    "correct": "b"
+  }
+]
