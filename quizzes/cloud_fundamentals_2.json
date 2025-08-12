@@ -1,0 +1,332 @@
+[
+  {
+    "id": "q31",
+    "question": "Which Google Cloud service is designed for storing unstructured objects like images and videos?",
+    "options": {
+      "a": "Cloud SQL",
+      "b": "Cloud Storage",
+      "c": "Bigtable",
+      "d": "Spanner"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q32",
+    "question": "Which storage service is best suited for petabyte-scale, low-latency NoSQL workloads?",
+    "options": {
+      "a": "Cloud SQL",
+      "b": "Firestore",
+      "c": "Bigtable",
+      "d": "Cloud Storage"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q33",
+    "question": "Which Google Cloud database offers global consistency and horizontal scalability for relational workloads?",
+    "options": {
+      "a": "Cloud SQL",
+      "b": "Cloud Spanner",
+      "c": "Firestore",
+      "d": "Bigtable"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q34",
+    "question": "Which Google Cloud service is a fully managed relational database for MySQL, PostgreSQL, and SQL Server?",
+    "options": {
+      "a": "Cloud SQL",
+      "b": "Bigtable",
+      "c": "Spanner",
+      "d": "Firestore"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q35",
+    "question": "Which database service is document-oriented and ideal for real-time mobile and web apps?",
+    "options": {
+      "a": "Firestore",
+      "b": "Cloud SQL",
+      "c": "Spanner",
+      "d": "Bigtable"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q36",
+    "question": "What is the smallest unit of storage in Cloud Storage?",
+    "options": {
+      "a": "Bucket",
+      "b": "Folder",
+      "c": "Object",
+      "d": "Block"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q37",
+    "question": "Which Cloud Storage class offers the lowest storage cost but highest retrieval cost?",
+    "options": {
+      "a": "Standard",
+      "b": "Nearline",
+      "c": "Coldline",
+      "d": "Archive"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "q38",
+    "question": "Which storage option is best for analytics workloads that require fast read and write speeds for huge datasets?",
+    "options": {
+      "a": "Bigtable",
+      "b": "Cloud SQL",
+      "c": "Firestore",
+      "d": "Archive Storage"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q39",
+    "question": "What is a key benefit of Cloud Spanner over Cloud SQL?",
+    "options": {
+      "a": "Supports multi-region replication with strong consistency",
+      "b": "Lower latency for single-row reads",
+      "c": "Requires no schema",
+      "d": "Only supports NoSQL workloads"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q40",
+    "question": "Which Cloud Storage class is best suited for data accessed less than once a year?",
+    "options": {
+      "a": "Standard",
+      "b": "Nearline",
+      "c": "Coldline",
+      "d": "Archive"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "q41",
+    "question": "Which Google Cloud service is primarily used for running containerized workloads?",
+    "options": {
+      "a": "Cloud Functions",
+      "b": "Google Kubernetes Engine",
+      "c": "Cloud Run",
+      "d": "Compute Engine"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q42",
+    "question": "What is the main advantage of using containers over traditional virtual machines?",
+    "options": {
+      "a": "They include their own operating system kernel",
+      "b": "They run faster because they share the host OS kernel",
+      "c": "They cannot run on multiple platforms",
+      "d": "They require more disk space"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q43",
+    "question": "In Kubernetes, what is the smallest deployable unit?",
+    "options": {
+      "a": "Service",
+      "b": "Node",
+      "c": "Pod",
+      "d": "Cluster"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q44",
+    "question": "Which GKE mode lets Google manage the control plane and worker nodes for you?",
+    "options": {
+      "a": "Standard mode",
+      "b": "Autopilot mode",
+      "c": "Hybrid mode",
+      "d": "Legacy mode"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q45",
+    "question": "Which Kubernetes object defines how to run a container and its replica count?",
+    "options": {
+      "a": "Deployment",
+      "b": "Service",
+      "c": "Node",
+      "d": "Ingress"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q46",
+    "question": "Which Google Cloud service runs containers without you managing servers or Kubernetes clusters?",
+    "options": {
+      "a": "Cloud Functions",
+      "b": "Cloud Run",
+      "c": "Compute Engine",
+      "d": "BigQuery"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q47",
+    "question": "Which service is best for small, single-purpose event-driven workloads?",
+    "options": {
+      "a": "Cloud Functions",
+      "b": "Cloud Run",
+      "c": "GKE",
+      "d": "App Engine"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q48",
+    "question": "Which feature of Cloud Run allows scaling down to zero when idle?",
+    "options": {
+      "a": "Always-on containers",
+      "b": "Serverless execution",
+      "c": "Persistent VM mode",
+      "d": "Manual scaling"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q49",
+    "question": "Which Cloud Functions trigger type runs code in response to a new object in Cloud Storage?",
+    "options": {
+      "a": "HTTP trigger",
+      "b": "Pub/Sub trigger",
+      "c": "Cloud Storage trigger",
+      "d": "Scheduler trigger"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q50",
+    "question": "Which service would you use for running a containerized web API without managing infrastructure?",
+    "options": {
+      "a": "Cloud Run",
+      "b": "Cloud Functions",
+      "c": "Compute Engine",
+      "d": "Bigtable"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q51",
+    "question": "Which type of workload is a good fit for Cloud Functions?",
+    "options": {
+      "a": "Long-running batch jobs",
+      "b": "Real-time image processing triggered by uploads",
+      "c": "Persistent database hosting",
+      "d": "Multi-node analytics clusters"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q52",
+    "question": "Which Google Cloud database would you choose for a mobile app needing real-time sync?",
+    "options": {
+      "a": "Cloud SQL",
+      "b": "Firestore",
+      "c": "Spanner",
+      "d": "Bigtable"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q53",
+    "question": "What is the main goal of prompt engineering in generative AI?",
+    "options": {
+      "a": "To reduce network latency",
+      "b": "To improve model responses by crafting effective inputs",
+      "c": "To scale containers faster",
+      "d": "To store more training data"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q54",
+    "question": "Which Google AI model is used in Google Cloud for generative AI tasks?",
+    "options": {
+      "a": "Gemini",
+      "b": "BERT",
+      "c": "PaLM",
+      "d": "TensorFlow"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q55",
+    "question": "When crafting prompts for Gemini, which approach improves clarity?",
+    "options": {
+      "a": "Use vague instructions to allow creativity",
+      "b": "Provide specific context and examples",
+      "c": "Avoid mentioning the desired format",
+      "d": "Only use single-word prompts"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q56",
+    "question": "Which of these is an example of prompt engineering?",
+    "options": {
+      "a": "Optimizing VM startup time",
+      "b": "Rewriting a question to include more relevant details",
+      "c": "Adding more CPU cores to a container",
+      "d": "Encrypting database fields"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q57",
+    "question": "Why is it useful to combine Google Cloud data with prompt engineering for Gemini?",
+    "options": {
+      "a": "To reduce billing costs",
+      "b": "To produce contextually accurate AI responses",
+      "c": "To migrate apps to containers",
+      "d": "To store data in Coldline storage"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q58",
+    "question": "Which storage service would you choose for storing massive IoT sensor data with time-series queries?",
+    "options": {
+      "a": "Bigtable",
+      "b": "Cloud SQL",
+      "c": "Firestore",
+      "d": "Spanner"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q59",
+    "question": "Which Google Cloud service automatically manages scaling, security, and infrastructure for containerized apps?",
+    "options": {
+      "a": "Compute Engine",
+      "b": "Cloud Run",
+      "c": "Cloud Functions",
+      "d": "BigQuery"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q60",
+    "question": "Which is the most cost-effective Cloud Storage class for frequently accessed data?",
+    "options": {
+      "a": "Standard",
+      "b": "Nearline",
+      "c": "Coldline",
+      "d": "Archive"
+    },
+    "correct": "a"
+  }
+]

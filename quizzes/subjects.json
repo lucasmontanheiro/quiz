@@ -3,6 +3,9 @@
   "generative_ai_leader_quiz",
   "caching",
   "app01_app_layer_protocols",
+  "db00_database_fundamentals",
   "db00_data_modeling_fundamentals",
-  "db01_relationships"
+  "db01_relationships",
+  "cloud_fundamentals_1",
+  "cloud_fundamentals_2"
 ]

@@ -1,0 +1,332 @@
+[
+  {
+    "id": "q1",
+    "question": "What is a primary benefit of using Google Cloud?",
+    "options": {
+      "a": "You must purchase and maintain your own servers",
+      "b": "It automatically scales resources to meet demand",
+      "c": "You must install all software manually",
+      "d": "It runs only on private local networks"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q2",
+    "question": "Which term describes the delivery of computing services over the internet?",
+    "options": {
+      "a": "Cloud computing",
+      "b": "Edge networking",
+      "c": "Local hosting",
+      "d": "Distributed locking"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q3",
+    "question": "Which type of cloud service provides the highest level of abstraction from infrastructure management?",
+    "options": {
+      "a": "Infrastructure as a Service (IaaS)",
+      "b": "Platform as a Service (PaaS)",
+      "c": "Hardware as a Service (HaaS)",
+      "d": "Bare-metal hosting"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q4",
+    "question": "In Google Cloud, what is the fundamental organizing entity for resources?",
+    "options": {
+      "a": "Folders",
+      "b": "Projects",
+      "c": "Regions",
+      "d": "Networks"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q5",
+    "question": "Which Google Cloud service controls who can do what with resources?",
+    "options": {
+      "a": "Cloud Identity and Access Management (IAM)",
+      "b": "Cloud Monitoring",
+      "c": "Cloud DNS",
+      "d": "Cloud Run"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q6",
+    "question": "Which type of Google Cloud account is intended for human users?",
+    "options": {
+      "a": "Service account",
+      "b": "User account",
+      "c": "Machine account",
+      "d": "API account"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q7",
+    "question": "What is a service account typically used for in Google Cloud?",
+    "options": {
+      "a": "Granting access to end-users",
+      "b": "Authenticating applications and virtual machines",
+      "c": "Providing email services",
+      "d": "Billing alerts"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q8",
+    "question": "Which IAM concept defines a collection of permissions?",
+    "options": {
+      "a": "Role",
+      "b": "Policy",
+      "c": "Scope",
+      "d": "Label"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q9",
+    "question": "Which Google Cloud command-line tool can be used to manage resources?",
+    "options": {
+      "a": "kubectl",
+      "b": "gcloud",
+      "c": "gsutil",
+      "d": "terraform"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q10",
+    "question": "Which Google Cloud interface allows managing resources via a web browser?",
+    "options": {
+      "a": "Cloud Console",
+      "b": "Cloud Shell",
+      "c": "Cloud Editor",
+      "d": "App Engine Dashboard"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q11",
+    "question": "Which statement is true about projects in Google Cloud?",
+    "options": {
+      "a": "Projects cannot contain other projects",
+      "b": "Projects are optional for resource organization",
+      "c": "Projects cannot be linked to billing accounts",
+      "d": "Projects automatically expire after 1 year"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q12",
+    "question": "What does IaaS typically provide?",
+    "options": {
+      "a": "Only networking capabilities",
+      "b": "Full control over virtual machines and storage",
+      "c": "Managed application deployment",
+      "d": "Automated code testing"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q13",
+    "question": "Which term describes a group of Google Cloud resources located in a specific geographical location?",
+    "options": {
+      "a": "Project",
+      "b": "Zone",
+      "c": "Region",
+      "d": "Network"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q14",
+    "question": "Which Google Cloud product is an IaaS offering?",
+    "options": {
+      "a": "App Engine",
+      "b": "Compute Engine",
+      "c": "Cloud Functions",
+      "d": "BigQuery"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q15",
+    "question": "What is a zone in Google Cloud?",
+    "options": {
+      "a": "A billing category",
+      "b": "A specific data center location within a region",
+      "c": "A project folder",
+      "d": "A network protocol"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q16",
+    "question": "Which network type in Google Cloud is global and automatically spans regions?",
+    "options": {
+      "a": "Auto mode VPC",
+      "b": "Custom mode VPC",
+      "c": "Legacy network",
+      "d": "VPN"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q17",
+    "question": "Which virtual machine option lets you pay only while the VM is running?",
+    "options": {
+      "a": "Preemptible VM",
+      "b": "Sustained-use VM",
+      "c": "Standard VM",
+      "d": "Spot VM"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q18",
+    "question": "Which statement best describes a preemptible VM?",
+    "options": {
+      "a": "Low-cost VM that can be terminated at any time",
+      "b": "VM with guaranteed uptime",
+      "c": "VM only for database workloads",
+      "d": "VM without networking"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q19",
+    "question": "Which command starts the interactive shell environment in the browser for Google Cloud?",
+    "options": {
+      "a": "Start Cloud Console",
+      "b": "Launch Cloud Shell",
+      "c": "Run gcloud",
+      "d": "Open Compute Engine"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q20",
+    "question": "Which feature of IAM allows granting the same permissions to multiple users at once?",
+    "options": {
+      "a": "Custom policy",
+      "b": "Role",
+      "c": "Label",
+      "d": "Folder"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q21",
+    "question": "Which Google Cloud service helps you connect on-premises networks to Google Cloud VPC?",
+    "options": {
+      "a": "Cloud VPN",
+      "b": "Cloud CDN",
+      "c": "Cloud DNS",
+      "d": "Cloud NAT"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q22",
+    "question": "What does the Google Cloud global network use to connect data centers?",
+    "options": {
+      "a": "Public internet only",
+      "b": "Private fiber-optic network",
+      "c": "Satellite links only",
+      "d": "Ad-hoc peer-to-peer connections"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q23",
+    "question": "Which Google Cloud network mode allows you to manually define subnets in specific regions?",
+    "options": {
+      "a": "Auto mode VPC",
+      "b": "Custom mode VPC",
+      "c": "Legacy network",
+      "d": "Shared VPC"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q24",
+    "question": "Which Google Cloud compute service offers fully managed serverless execution?",
+    "options": {
+      "a": "Compute Engine",
+      "b": "App Engine",
+      "c": "Kubernetes Engine",
+      "d": "Cloud Functions"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "q25",
+    "question": "What is the main benefit of zones within regions?",
+    "options": {
+      "a": "Increase network speed",
+      "b": "Provide high availability by distributing resources",
+      "c": "Reduce project costs",
+      "d": "Restrict access to resources"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q26",
+    "question": "Which IAM role type contains Google-managed permissions for common tasks?",
+    "options": {
+      "a": "Custom role",
+      "b": "Basic role",
+      "c": "Predefined role",
+      "d": "Temporary role"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q27",
+    "question": "Which basic IAM role grants full control over all resources in a project?",
+    "options": {
+      "a": "Viewer",
+      "b": "Editor",
+      "c": "Owner",
+      "d": "Admin"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q28",
+    "question": "Which tool provides a browser-based command-line interface for Google Cloud?",
+    "options": {
+      "a": "Cloud Shell",
+      "b": "Cloud Console",
+      "c": "Cloud SDK",
+      "d": "Cloud Functions"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q29",
+    "question": "Which networking feature in Google Cloud allows resources to communicate privately without public IPs?",
+    "options": {
+      "a": "Cloud NAT",
+      "b": "Private Google Access",
+      "c": "Cloud CDN",
+      "d": "Cloud Interconnect"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q30",
+    "question": "What is the main difference between IaaS and PaaS in Google Cloud?",
+    "options": {
+      "a": "IaaS manages the operating system for you, PaaS does not",
+      "b": "PaaS abstracts infrastructure management, IaaS provides more control over it",
+      "c": "IaaS is cheaper in all cases than PaaS",
+      "d": "PaaS cannot scale applications automatically"
+    },
+    "correct": "b"
+  }
+]
