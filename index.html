@@ -51,9 +51,18 @@
 
     async function loadQuiz() {
       const subject = document.getElementById('subject').value;
-      const res = await fetch(`${quizFolder}/${subject}`);
-      allQuestions = await res.json();
-      selectedQuestions = shuffle(allQuestions).slice(0, maxQuestions);
+                      const response = await fetch(`quizzes/${selectedSubject}.json`);
+                currentQuizData = await response.json();
+
+                // Ensure currentQuizData is an array before shuffling
+                if (!Array.isArray(currentQuizData)) {
+                    console.error('Fetched quiz data is not an array:', currentQuizData);
+                    alert('Error: Quiz data is malformed or empty. Please check the quiz JSON file.');
+                    return; // Stop execution if data is not an array
+                }
+
+                // Select a random subset of questions
+                selectedQuestions = shuffle(currentQuizData).slice(0, NUM_QUESTIONS);
 
       const container = document.getElementById('quiz-container');
       container.innerHTML = '';
