@@ -1,13 +1,46 @@
 [
-  "system_design",
-  "generative_ai_leader_quiz",
-  "caching",
-  "app01_app_layer_protocols",
-  "db00_database_fundamentals",
-  "db00_data_modeling_fundamentals",
-  "db01_relationships",
-  "db02_relational_nonrelational",
-  "cloud_fundamentals_1",
-  "cloud_fundamentals_2",
-  "cloud_fundamentals_3_storage"
+  {
+    "subject": "App01 App Layer Protocols",
+    "file": "app01_app_layer_protocols.json"
+  },
+  {
+    "subject": "Caching",
+    "file": "caching.json"
+  },
+  {
+    "subject": "Cloud Fundamentals 1",
+    "file": "cloud_fundamentals_1.json"
+  },
+  {
+    "subject": "Cloud Fundamentals 2",
+    "file": "cloud_fundamentals_2.json"
+  },
+  {
+    "subject": "Cloud Fundamentals 3 Storage",
+    "file": "cloud_fundamentals_3_storage.json"
+  },
+  {
+    "subject": "Db00 Data Modeling Fundamentals",
+    "file": "db00_data_modeling_fundamentals.json"
+  },
+  {
+    "subject": "Db00 Database Fundamentals",
+    "file": "db00_database_fundamentals.json"
+  },
+  {
+    "subject": "Db01 Relationships",
+    "file": "db01_relationships.json"
+  },
+  {
+    "subject": "Db02 Relational Nonrelational",
+    "file": "db02_relational_nonrelational.json"
+  },
+  {
+    "subject": "Generative Ai Leader Quiz",
+    "file": "generative_ai_leader_quiz.json"
+  },
+  {
+    "subject": "System Design",
+    "file": "system_design.json"
+  }
 ]
