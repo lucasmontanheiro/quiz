@@ -1,0 +1,306 @@
+
+{
+  "title": "Google Cloud Fundamentals: Storage",
+  "questions": [
+    {
+      "question": "What are the five core Google Cloud storage products discussed in the course?",
+      "options": {
+        "A": "Cloud Storage, Bigtable, Cloud SQL, Spanner, and Firestore",
+        "B": "Google Drive, BigQuery, Cloud SQL, Spanner, and Firebase",
+        "C": "Cloud Storage, BigQuery, Cloud SQL, Spanner, and Firestore",
+        "D": "Google Drive, Bigtable, Cloud SQL, Spanner, and Firebase"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which storage service is described as a versatile and scalable object storage service?",
+      "options": {
+        "A": "Cloud SQL",
+        "B": "Cloud Storage",
+        "C": "Bigtable",
+        "D": "Spanner"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "For what purposes is Cloud Storage suitable?",
+      "options": {
+        "A": "Data backups, media serving, and analytics",
+        "B": "Running virtual machines",
+        "C": "Hosting relational databases",
+        "D": "Real-time data processing"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which service is a fully managed relational database service supporting MySQL, PostgreSQL, and SQL Server?",
+      "options": {
+        "A": "Spanner",
+        "B": "Firestore",
+        "C": "Cloud SQL",
+        "D": "Bigtable"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "What type of database is Cloud Spanner?",
+      "options": {
+        "A": "NoSQL document database",
+        "B": "Globally distributed relational database service",
+        "C": "Wide-column NoSQL database",
+        "D": "In-memory database"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Which of the following is a managed NoSQL document database?",
+      "options": {
+        "A": "Cloud SQL",
+        "B": "Spanner",
+        "C": "Firestore",
+        "D": "Bigtable"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "What is Bigtable primarily used for?",
+      "options": {
+        "A": "Small-scale applications",
+        "B": "Large analytical and operational workloads",
+        "C": "Storing unstructured data",
+        "D": "Serving web content"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What are the main types of cloud storage covered in the course?",
+      "options": {
+        "A": "Object Storage, Block Storage, and File Storage",
+        "B": "Hot Storage, Cold Storage, and Archive Storage",
+        "C": "Primary Storage, Secondary Storage, and Tertiary Storage",
+        "D": "Local Storage, Network Storage, and Cloud Storage"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which Google Cloud service represents Object Storage?",
+      "options": {
+        "A": "Persistent Disks",
+        "B": "Cloud Filestore",
+        "C": "Cloud Storage",
+        "D": "Cloud SQL"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "What is Block Storage provided by in Google Cloud?",
+      "options": {
+        "A": "Cloud Storage",
+        "B": "Persistent Disks",
+        "C": "Cloud Filestore",
+        "D": "Bigtable"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Which service offers managed network file storage (NFS)?",
+      "options": {
+        "A": "Cloud Storage",
+        "B": "Persistent Disks",
+        "C": "Cloud Filestore",
+        "D": "Spanner"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "What are the different storage classes offered by Cloud Storage?",
+      "options": {
+        "A": "Standard, Nearline, Coldline, and Archive",
+        "B": "Hot, Warm, Cold, and Frozen",
+        "C": "Primary, Secondary, Backup, and Archive",
+        "D": "Fast, Medium, Slow, and Glacial"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which Cloud Storage class is for frequently accessed data?",
+      "options": {
+        "A": "Nearline",
+        "B": "Coldline",
+        "C": "Archive",
+        "D": "Standard"
+      },
+      "answer": "D"
+    },
+    {
+      "question": "For data accessed less than once a month, which storage class is most cost-effective?",
+      "options": {
+        "A": "Standard",
+        "B": "Nearline",
+        "C": "Coldline",
+        "D": "Archive"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Which storage class is designed for data accessed less than once a quarter?",
+      "options": {
+        "A": "Standard",
+        "B": "Nearline",
+        "C": "Coldline",
+        "D": "Archive"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "What is the most economical choice for long-term data archiving and disaster recovery?",
+      "options": {
+        "A": "Standard",
+        "B": "Nearline",
+        "C": "Coldline",
+        "D": "Archive"
+      },
+      "answer": "D"
+    },
+    {
+      "question": "What does Cloud SQL manage for the user?",
+      "options": {
+        "A": "The underlying operating system and database software",
+        "B": "Only the hardware",
+        "C": "Only the application code",
+        "D": "The physical security of the data center"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What are the benefits of Cloud Spanner?",
+      "options": {
+        "A": "Combines the benefits of relational and non-relational databases",
+        "B": "It is the cheapest storage option",
+        "C": "It is only for small-scale applications",
+        "D": "It only supports NoSQL"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What kind of data is Firestore designed for?",
+      "options": {
+        "A": "Structured, relational data",
+        "B": "Unstructured, binary data",
+        "C": "NoSQL document data",
+        "D": "Time-series data"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "What is a key feature of Bigtable?",
+      "options": {
+        "A": "It is a relational database",
+        "B": "It is a wide-column NoSQL database",
+        "C": "It is designed for small datasets",
+        "D": "It is a document database"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What is unstructured data?",
+      "options": {
+        "A": "Data that does not have a pre-defined data model",
+        "B": "Data that is organized in a specific way",
+        "C": "Data that is stored in a relational database",
+        "D": "Data that is easy to search and analyze"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is an example of unstructured data?",
+      "options": {
+        "A": "A table in a relational database",
+        "B": "A CSV file",
+        "C": "An image or video file",
+        "D": "A spreadsheet"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "What is the purpose of Persistent Disks?",
+      "options": {
+        "A": "To store unstructured data",
+        "B": "To provide reliable, high-performance block storage for virtual machine instances",
+        "C": "To store and serve web content",
+        "D": "To manage relational databases"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What is a shared filesystem?",
+      "options": {
+        "A": "A filesystem that can be accessed by multiple users or applications at the same time",
+        "B": "A filesystem that is only accessible by a single user",
+        "C": "A filesystem that is stored on a single computer",
+        "D": "A filesystem that is not connected to a network"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What is the benefit of using different storage classes in Cloud Storage?",
+      "options": {
+        "A": "To increase the durability of data",
+        "B": "To optimize costs based on how frequently data is accessed",
+        "C": "To improve the performance of data access",
+        "D": "To make data more secure"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What is 'hot' data?",
+      "options": {
+        "A": "Data that is rarely accessed",
+        "B": "Data that is frequently accessed",
+        "C": "Data that is archived for long-term storage",
+        "D": "Data that is no longer needed"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "What is the hands-on lab in the course about?",
+      "options": {
+        "A": "Creating a Cloud SQL instance",
+        "B": "Creating a Cloud Storage bucket, uploading an image, and configuring a web server to use it",
+        "C": "Creating a Bigtable cluster",
+        "D": "Creating a Firestore database"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Which storage service is a good choice for a mobile application that needs to store user data in a flexible, scalable way?",
+      "options": {
+        "A": "Cloud SQL",
+        "B": "Spanner",
+        "C": "Firestore",
+        "D": "Bigtable"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "Which storage service would you use to store large amounts of historical data for analysis?",
+      "options": {
+        "A": "Cloud SQL",
+        "B": "Spanner",
+        "C": "Firestore",
+        "D": "Bigtable"
+      },
+      "answer": "D"
+    },
+    {
+      "question": "Which storage service would you use for a traditional relational database that requires strong consistency?",
+      "options": {
+        "A": "Cloud SQL",
+        "B": "Bigtable",
+        "C": "Firestore",
+        "D": "Cloud Storage"
+      },
+      "answer": "A"
+    }
+  ]
+}
