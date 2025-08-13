@@ -40,8 +40,8 @@
 
         subjects.forEach(subj => {
           const opt = document.createElement('option');
-          opt.value = subj;
-          opt.textContent = subj.replace(/_/g, ' ');
+          opt.value = subj.file;
+          opt.textContent = subj.subject;
           select.appendChild(opt);
         });
       } catch (err) {
