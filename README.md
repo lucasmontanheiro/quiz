@@ -12,6 +12,22 @@ A straightforward, single-page quiz application built with vanilla JavaScript, H
 
 ## 🚀 How to Run
 
+This application is designed to be deployed on static hosting services like GitHub Pages.
+
+### GitHub Pages Deployment
+
+To deploy this quiz application on GitHub Pages:
+
+1.  Push your code to a GitHub repository.
+2.  Go to your repository settings on GitHub.
+3.  Navigate to the "Pages" section.
+4.  Choose your deployment source (e.g., `main` branch, `/docs` folder).
+5.  Your site will be deployed to `https://<username>.github.io/<repository-name>/`.
+
+**Best Practices for GitHub Pages:**
+*   **Relative Paths:** Ensure all your asset paths (CSS, JS, images, JSON data) are relative to your project root or use absolute paths starting with `/` if your site is deployed to a subpath (e.g., `/your-repo-name/css/style.css`). This project uses relative paths for simplicity.
+*   **Case Sensitivity:** GitHub Pages serves files with case sensitivity. Ensure your file names and references match exactly (e.g., `quizzes/subjects.json` is not the same as `Quizzes/Subjects.json`).
+
 This is a simple front-end application with no build step. However, due to browser security policies (CORS), you cannot open `index.html` directly from the file system if you want to fetch the quiz data.
 
 You need to serve the project files from a local web server.

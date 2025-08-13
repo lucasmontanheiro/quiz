@@ -51,7 +51,7 @@
 
     async function loadQuiz() {
       const subject = document.getElementById('subject').value;
-      const res = await fetch(`${quizFolder}/${subject}.json`);
+      const res = await fetch(`${quizFolder}/${subject}`);
       allQuestions = await res.json();
       selectedQuestions = shuffle(allQuestions).slice(0, maxQuestions);
 
