@@ -1,0 +1,332 @@
+[
+  {
+    "id": "q1",
+    "question": "What is a container?",
+    "options": {
+      "a": "A lightweight, standalone, executable package of software that includes everything needed to run it.",
+      "b": "A type of virtual machine.",
+      "c": "A physical server in a data center.",
+      "d": "A software development methodology."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q2",
+    "question": "What is the most popular containerization platform?",
+    "options": {
+      "a": "Docker",
+      "b": "Podman",
+      "c": "LXC",
+      "d": "rkt"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q3",
+    "question": "What is a container image?",
+    "options": {
+      "a": "A lightweight, standalone, executable package that includes everything needed to run a piece of software.",
+      "b": "A running instance of a container.",
+      "c": "A template for creating a container.",
+      "d": "A file that describes how to build a container."
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q4",
+    "question": "What is a Dockerfile?",
+    "options": {
+      "a": "A text document that contains all the commands a user could call on the command line to assemble an image.",
+      "b": "A running container.",
+      "c": "A container registry.",
+      "d": "A type of container storage."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q5",
+    "question": "What is the difference between a container and a virtual machine?",
+    "options": {
+      "a": "Containers virtualize the OS, while VMs virtualize the hardware.",
+      "b": "Containers are heavier than VMs.",
+      "c": "VMs are more portable than containers.",
+      "d": "Containers and VMs are the same thing."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q6",
+    "question": "What is Kubernetes?",
+    "options": {
+      "a": "An open-source container orchestration platform.",
+      "b": "A container runtime.",
+      "c": "A cloud provider.",
+      "d": "A type of database."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q7",
+    "question": "What is the primary purpose of Kubernetes?",
+    "options": {
+      "a": "To automate the deployment, scaling, and management of containerized applications.",
+      "b": "To build container images.",
+      "c": "To provide a secure environment for running containers.",
+      "d": "To monitor application performance."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q8",
+    "question": "What is a Kubernetes cluster?",
+    "options": {
+      "a": "A set of nodes that run containerized applications.",
+      "b": "A single machine running Kubernetes.",
+      "c": "A group of containers.",
+      "d": "A Kubernetes configuration file."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q9",
+    "question": "What is a Kubernetes pod?",
+    "options": {
+      "a": "The smallest and simplest unit in the Kubernetes object model that you create or deploy.",
+      "b": "A single container.",
+      "c": "A group of nodes.",
+      "d": "A Kubernetes controller."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q10",
+    "question": "What is a Kubernetes service?",
+    "options": {
+      "a": "An abstract way to expose an application running on a set of Pods as a network service.",
+      "b": "A single pod.",
+      "c": "A Kubernetes worker node.",
+      "d": "A tool for managing Kubernetes clusters."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q11",
+    "question": "What is a Kubernetes deployment?",
+    "options": {
+      "a": "A controller that manages the lifecycle of pods.",
+      "b": "A single pod.",
+      "c": "A Kubernetes service.",
+      "d": "A Kubernetes node."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q12",
+    "question": "What is a Kubernetes namespace?",
+    "options": {
+      "a": "A way to divide cluster resources between multiple users.",
+      "b": "A single cluster.",
+      "c": "A group of deployments.",
+      "d": "A type of Kubernetes storage."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q13",
+    "question": "What is `kubectl`?",
+    "options": {
+      "a": "A command-line tool for interacting with a Kubernetes cluster.",
+      "b": "The Kubernetes control plane.",
+      "c": "A Kubernetes GUI dashboard.",
+      "d": "A Kubernetes monitoring tool."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q14",
+    "question": "What is a Kubernetes ReplicaSet?",
+    "options": {
+      "a": "A controller that ensures a specified number of pod replicas are running at any given time.",
+      "b": "A single pod.",
+      "c": "A set of nodes.",
+      "d": "A Kubernetes service."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q15",
+    "question": "What is a Kubernetes DaemonSet?",
+    "options": {
+      "a": "A controller that ensures that all (or some) Nodes run a copy of a Pod.",
+      "b": "A set of pods.",
+      "c": "A Kubernetes deployment.",
+      "d": "A Kubernetes security feature."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q16",
+    "question": "What is a Kubernetes StatefulSet?",
+    "options": {
+      "a": "A controller used to manage stateful applications.",
+      "b": "A stateless application.",
+      "c": "A Kubernetes deployment.",
+      "d": "A type of Kubernetes storage."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q17",
+    "question": "What is a Kubernetes ConfigMap?",
+    "options": {
+      "a": "An API object used to store non-confidential data in key-value pairs.",
+      "b": "A way to store secrets.",
+      "c": "A type of Kubernetes volume.",
+      "d": "A Kubernetes networking component."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q18",
+    "question": "What is a Kubernetes Secret?",
+    "options": {
+      "a": "An object that lets you store and manage sensitive information, such as passwords, OAuth tokens, and ssh keys.",
+      "b": "A public configuration file.",
+      "c": "A type of Kubernetes service.",
+      "d": "A Kubernetes logging mechanism."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q19",
+    "question": "What is a Kubernetes Ingress?",
+    "options": {
+      "a": "An API object that manages external access to the services in a cluster, typically HTTP.",
+      "b": "A way for pods to communicate with each other.",
+      "c": "A Kubernetes firewall.",
+      "d": "A Kubernetes monitoring tool."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q20",
+    "question": "What is Helm in the context of Kubernetes?",
+    "options": {
+      "a": "A package manager for Kubernetes.",
+      "b": "A Kubernetes monitoring tool.",
+      "c": "A Kubernetes security scanner.",
+      "d": "A Kubernetes GUI dashboard."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q21",
+    "question": "What is Google Kubernetes Engine (GKE)?",
+    "options": {
+      "a": "A managed Kubernetes service from Google Cloud.",
+      "b": "An open-source Kubernetes distribution.",
+      "c": "A tool for building container images.",
+      "d": "A container registry."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q22",
+    "question": "What is a GKE cluster?",
+    "options": {
+      "a": "A managed Kubernetes cluster running on Google Cloud.",
+      "b": "A self-managed Kubernetes cluster.",
+      "c": "A single virtual machine.",
+      "d": "A Google Cloud storage bucket."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q23",
+    "question": "What are the two modes of operation for a GKE cluster?",
+    "options": {
+      "a": "Autopilot and Standard",
+      "b": "Managed and Unmanaged",
+      "c": "Public and Private",
+      "d": "Regional and Zonal"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q24",
+    "question": "What is GKE Autopilot?",
+    "options": {
+      "a": "A mode of GKE that automates cluster management, including node provisioning and scaling.",
+      "b": "A GKE feature for manual cluster scaling.",
+      "c": "A GKE security scanner.",
+      "d": "A GKE monitoring dashboard."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q25",
+    "question": "What is GKE Standard?",
+    "options": {
+      "a": "A mode of GKE that gives you more control over your cluster's configuration.",
+      "b": "A fully automated GKE mode.",
+      "c": "A GKE feature for building container images.",
+      "d": "A GKE networking component."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q26",
+    "question": "What is a GKE node pool?",
+    "options": {
+      "a": "A group of nodes within a cluster that all have the same configuration.",
+      "b": "A single node.",
+      "c": "A group of pods.",
+      "d": "A GKE cluster."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q27",
+    "question": "How does GKE handle cluster scaling?",
+    "options": {
+      "a": "Through autoscaling of node pools and pods.",
+      "b": "Manually, by adding or removing nodes.",
+      "c": "It does not support cluster scaling.",
+      "d": "By creating a new cluster."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q28",
+    "question": "What is the role of the control plane in a GKE cluster?",
+    "options": {
+      "a": "To manage the Kubernetes API server, scheduler, and other core Kubernetes components.",
+      "b": "To run user workloads.",
+      "c": "To store container images.",
+      "d": "To provide networking for pods."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q29",
+    "question": "What is a common way to expose a service to the internet in GKE?",
+    "options": {
+      "a": "Using a LoadBalancer service type or an Ingress.",
+      "b": "By assigning a public IP address to each pod.",
+      "c": "By using a firewall rule.",
+      "d": "It is not possible to expose services to the internet in GKE."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q30",
+    "question": "What is the benefit of using GKE over managing your own Kubernetes cluster?",
+    "options": {
+      "a": "Reduced operational overhead, as Google manages the control plane and provides features like autoscaling and auto-upgrades.",
+      "b": "More control over the Kubernetes control plane.",
+      "c": "Lower cost.",
+      "d": "Better performance."
+    },
+    "correct": "a"
+  }
+]

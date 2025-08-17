@@ -42,5 +42,13 @@
   {
     "subject": "System Design",
     "file": "system_design.json"
+  },
+  {
+    "subject": "Cloud Fundamentals 4 Kubernetes",
+    "file": "cloud_fundamentals_4_kubernetes.json"
+  },
+  {
+    "subject": "Abstraction Layers",
+    "file": "abstraction_layers.json"
   }
 ]

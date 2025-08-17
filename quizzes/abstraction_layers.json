@@ -1,0 +1,332 @@
+[
+  {
+    "id": "q1",
+    "question": "What is the primary benefit of abstracting electronic signals into binary 0s and 1s at the hardware level?",
+    "options": {
+      "a": "You don't think about the flow of electrons, just digital states",
+      "b": "It makes the hardware run faster",
+      "c": "It allows for more complex programming languages",
+      "d": "It reduces the cost of manufacturing"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q2",
+    "question": "Which of the following is an example of a component at the hardware level of abstraction?",
+    "options": {
+      "a": "A function in a Python script",
+      "b": "A CPU register",
+      "c": "An HTTP request",
+      "d": "A database table"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q3",
+    "question": "What is the main purpose of using mnemonics like `MOV` and `ADD` in assembly language?",
+    "options": {
+      "a": "To make the code run faster",
+      "b": "To provide human-readable names for binary opcodes",
+      "c": "To manage memory automatically",
+      "d": "To interact with the operating system"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q4",
+    "question": "At the Machine Code & Assembly level, what do binary opcodes get abstracted into?",
+    "options": {
+      "a": "Functions and variables",
+      "b": "Human-readable mnemonics",
+      "c": "Objects and classes",
+      "d": "API endpoints"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q5",
+    "question": "What do low-level languages like C abstract away from the programmer?",
+    "options": {
+      "a": "The concept of variables",
+      "b": "The need for logic",
+      "c": "Direct memory addresses and CPU registers",
+      "d": "The entire operating system"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q6",
+    "question": "Which of the following is a characteristic of low-level languages?",
+    "options": {
+      "a": "They provide a high level of abstraction from the hardware.",
+      "b": "They are generally easier to read and write than high-level languages.",
+      "c": "They offer fine-grained control over hardware resources.",
+      "d": "They have built-in garbage collection."
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q7",
+    "question": "What is the key benefit of using a high-level language like Python or Java?",
+    "options": {
+      "a": "You can think in terms of problems, not hardware resources",
+      "b": "They are always faster than low-level languages",
+      "c": "They provide direct access to hardware",
+      "d": "They are harder to learn"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q8",
+    "question": "What do high-level languages hide from the developer?",
+    "options": {
+      "a": "The logic of the program",
+      "b": "The user interface",
+      "c": "Manual memory management and hardware details",
+      "d": "The need for algorithms"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q9",
+    "question": "What is the primary role of a web framework?",
+    "options": {
+      "a": "To manage the computer's hardware",
+      "b": "To hide complex system interactions like HTTP and SQL queries",
+      "c": "To compile code into machine language",
+      "d": "To provide a text editor for developers"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q10",
+    "question": "An SDK for a cloud service is an example of what level of abstraction?",
+    "options": {
+      "a": "Hardware Level",
+      "b": "Low-Level Languages",
+      "c": "Frameworks & APIs",
+      "d": "Operating Systems"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q11",
+    "question": "What is the main advantage of using a library like an ORM (Object-Relational Mapper)?",
+    "options": {
+      "a": "It makes the database run faster",
+      "b": "It provides reusable building blocks and hides repetitive boilerplate",
+      "c": "It eliminates the need for a database",
+      "d": "It allows you to write code in a different language"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q12",
+    "question": "Which of the following is an example of middleware?",
+    "options": {
+      "a": "A CPU",
+      "b": "A text editor",
+      "c": "A messaging queue like Kafka",
+      "d": "A CSS file"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q13",
+    "question": "What is the main function of an operating system as an abstraction layer?",
+    "options": {
+      "a": "To provide a consistent programming environment and manage hardware",
+      "b": "To run web browsers",
+      "c": "To create user interfaces",
+      "d": "To write code"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q14",
+    "question": "What does a runtime environment like the JVM or Node.js provide?",
+    "options": {
+      "a": "A physical machine to run code on",
+      "b": "A way to write code without a keyboard",
+      "c": "Services like memory management and I/O as system calls",
+      "d": "A graphical user interface"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q15",
+    "question": "What is the key benefit of using a Platform as a Service (PaaS) like AWS Lambda or Firebase?",
+    "options": {
+      "a": "It gives you full control over the underlying hardware",
+      "b": "It allows developers to focus on features, not infrastructure",
+      "c": "It is always the cheapest option",
+      "d": "It requires you to manage your own servers"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q16",
+    "question": "Kubernetes is an example of which abstraction level?",
+    "options": {
+      "a": "Hardware Level",
+      "b": "Platforms & Services",
+      "c": "Low-Level Languages",
+      "d": "User Interfaces"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q17",
+    "question": "At the application level, what are all the lower layers wrapped into?",
+    "options": {
+      "a": "Binary code",
+      "b": "Hardware components",
+      "c": "Business-specific logic and workflows",
+      "d": "User interface elements"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q18",
+    "question": "What is the primary focus at the application layer of abstraction?",
+    "options": {
+      "a": "Managing memory",
+      "b": "Providing value to users and businesses",
+      "c": "Controlling the CPU",
+      "d": "Designing the hardware"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q19",
+    "question": "What is the main purpose of a User Interface (UI) as an abstraction?",
+    "options": {
+      "a": "To translate user intent into complex system operations",
+      "b": "To manage the database",
+      "c": "To write the application's code",
+      "d": "To design the computer's architecture"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q20",
+    "question": "A Command-Line Interface (CLI) is an example of what?",
+    "options": {
+      "a": "A hardware component",
+      "b": "A low-level language",
+      "c": "A user interface",
+      "d": "A database"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q21",
+    "question": "Which abstraction level is concerned with transistors and logic gates?",
+    "options": {
+      "a": "Hardware Level",
+      "b": "High-Level Languages",
+      "c": "Applications",
+      "d": "User Interfaces"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q22",
+    "question": "At which level of abstraction would you find concepts like objects and garbage collection?",
+    "options": {
+      "a": "Hardware Level",
+      "b": "Machine Code & Assembly",
+      "c": "High-Level Languages",
+      "d": "Operating Systems"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q23",
+    "question": "What is the general principle of abstraction in software engineering?",
+    "options": {
+      "a": "Hiding unnecessary details while exposing only what's relevant",
+      "b": "Making code as complex as possible",
+      "c": "Always using the lowest level of abstraction possible",
+      "d": "Never using libraries or frameworks"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q24",
+    "question": "Moving from a low-level language to a high-level language generally results in...",
+    "options": {
+      "a": "Faster development time and less control over hardware",
+      "b": "Slower development time and more control over hardware",
+      "c": "Code that is harder to read and write",
+      "d": "A program that is less portable"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q25",
+    "question": "What abstraction layer is responsible for managing processes and memory?",
+    "options": {
+      "a": "Hardware Level",
+      "b": "Operating Systems & Runtimes",
+      "c": "Applications",
+      "d": "User Interfaces"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q26",
+    "question": "Which layer hides the complexity of HTTP requests and database queries?",
+    "options": {
+      "a": "Hardware Level",
+      "b": "Machine Code & Assembly",
+      "c": "Frameworks & APIs",
+      "d": "Operating Systems"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q27",
+    "question": "What is the benefit of hiding implementation details?",
+    "options": {
+      "a": "It makes the code harder to understand",
+      "b": "It allows you to work at a higher, simpler level of thinking",
+      "c": "It makes the program run slower",
+      "d": "It increases the size of the program"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q28",
+    "question": "Which of these is the highest level of abstraction?",
+    "options": {
+      "a": "Hardware Level",
+      "b": "Machine Code & Assembly",
+      "c": "Low-Level Languages",
+      "d": "User Interfaces / End-User Abstraction"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "q29",
+    "question": "Which of these is the lowest level of abstraction?",
+    "options": {
+      "a": "Hardware Level",
+      "b": "High-Level Languages",
+      "c": "Applications",
+      "d": "User Interfaces"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q30",
+    "question": "Why is abstraction important in software development?",
+    "options": {
+      "a": "It makes code more difficult to write",
+      "b": "It allows developers to manage complexity and build larger systems",
+      "c": "It is not important",
+      "d": "It makes programs run faster"
+    },
+    "correct": "b"
+  }
+]
