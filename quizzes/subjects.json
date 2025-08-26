@@ -50,5 +50,9 @@
   {
     "subject": "Abstraction Layers",
     "file": "abstraction_layers.json"
+  },
+  {
+    "subject": "Latency Throughput",
+    "file": "latency_throughput.json"
   }
 ]

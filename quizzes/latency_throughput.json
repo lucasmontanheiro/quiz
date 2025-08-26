@@ -1,0 +1,333 @@
+
+[
+  {
+    "id": "q1",
+    "question": "What is latency in the context of computer networks?",
+    "options": {
+      "a": "The total amount of data transferred over a period",
+      "b": "The time delay for a packet of data to travel from its source to its destination",
+      "c": "The number of connections a server can handle",
+      "d": "The speed of the network interface card"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q2",
+    "question": "What does throughput measure?",
+    "options": {
+      "a": "The delay in data transmission",
+      "b": "The volume of data successfully transferred over a unit of time",
+      "c": "The number of errors in a transmission",
+      "d": "The physical distance data travels"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q3",
+    "question": "What is the fundamental trade-off between latency and throughput?",
+    "options": {
+      "a": "Increasing one always increases the other",
+      "b": "Optimizing one often negatively impacts the other",
+      "c": "They are independent metrics and have no relationship",
+      "d": "Both can be maximized simultaneously without any trade-offs"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q4",
+    "question": "For which type of application is low latency most critical?",
+    "options": {
+      "a": "Streaming a pre-recorded video",
+      "b": "Downloading a large file",
+      "c": "Real-time online gaming",
+      "d": "Batch processing of financial data"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q5",
+    "question": "Which of the following factors has the most significant impact on latency?",
+    "options": {
+      "a": "The color of the network cable",
+      "b": "The physical distance between the sender and receiver",
+      "c": "The time of day",
+      "d": "The brand of the router"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q6",
+    "question": "How can network congestion affect latency and throughput?",
+    "options": {
+      "a": "It decreases latency and increases throughput",
+      "b": "It increases latency and decreases throughput",
+      "c": "It has no effect on either latency or throughput",
+      "d": "It only affects the security of the network"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q7",
+    "question": "What is the purpose of Quality of Service (QoS) in a network?",
+    "options": {
+      "a": "To encrypt all network traffic",
+      "b": "To prioritize certain types of traffic to manage latency and throughput",
+      "c": "To block all incoming connections",
+      "d": "To increase the physical speed of the network"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q8",
+    "question": "How does caching improve network performance?",
+    "options": {
+      "a": "By storing data closer to the user, reducing latency and network traffic",
+      "b": "By encrypting data to make it smaller",
+      "c": "By increasing the number of network hops",
+      "d": "By slowing down traffic to prevent errors"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q9",
+    "question": "Which metric is more important for batch processing applications?",
+    "options": {
+      "a": "Low latency",
+      "b": "High throughput",
+      "c": "Low jitter",
+      "d": "High packet loss"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q10",
+    "question": "What is a common mistake when evaluating network performance?",
+    "options": {
+      "a": "Considering only one metric (e.g., only latency or only throughput)",
+      "b": "Using a systematic approach",
+      "c": "Measuring performance under realistic network conditions",
+      "d": "Analyzing the application's specific needs"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q11",
+    "question": "What is 'jitter' in the context of network performance?",
+    "options": {
+      "a": "The variation in latency over time",
+      "b": "The total number of packets lost",
+      "c": "The maximum possible throughput",
+      "d": "The physical vibration of network cables"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q12",
+    "question": "Which of the following is a technique to reduce latency?",
+    "options": {
+      "a": "Using a Content Delivery Network (CDN)",
+      "b": "Increasing the size of data packets",
+      "c": "Adding more routers to the path",
+      "d": "Compressing data before transmission"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q13",
+    "question": "How does TCP's congestion control mechanism affect throughput?",
+    "options": {
+      "a": "It always maximizes throughput",
+      "b": "It can reduce throughput to avoid network collapse",
+      "c": "It has no effect on throughput",
+      "d": "It only works on fiber optic cables"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q14",
+    "question": "What is the 'last mile' problem in networking?",
+    "options": {
+      "a": "The final leg of a network connection, which is often the slowest and most expensive",
+      "b": "A problem with long-distance fiber optic cables",
+      "c": "The difficulty in securing the last router in a network",
+      "d": "The challenge of finding the last available IP address"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q15",
+    "question": "Why is it important to have a systematic approach to performance analysis?",
+    "options": {
+      "a": "It makes the analysis more complicated and time-consuming",
+      "b": "It ensures that all relevant factors are considered and avoids jumping to conclusions",
+      "c": "It is a requirement for all network certifications",
+      "d": "It guarantees that you will achieve the highest possible throughput"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q16",
+    "question": "Which of these is a tool for measuring network latency?",
+    "options": {
+      "a": "Wireshark",
+      "b": "Ping",
+      "c": "Iperf",
+      "d": "Netstat"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q17",
+    "question": "Which of these is a tool for measuring network throughput?",
+    "options": {
+      "a": "Traceroute",
+      "b": "Iperf",
+      "c": "Ping",
+      "d": "Nslookup"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q18",
+    "question": "In the context of the latency-throughput trade-off, what would a video conferencing application prioritize?",
+    "options": {
+      "a": "Maximizing throughput at all costs",
+      "b": "Minimizing latency, even if it means sacrificing some throughput",
+      "c": "Ignoring both latency and throughput",
+      "d": "Focusing only on the number of users"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q19",
+    "question": "What is the effect of packet loss on throughput?",
+    "options": {
+      "a": "It increases throughput because there is less data to process",
+      "b": "It decreases throughput because lost packets need to be retransmitted",
+      "c": "It has no effect on throughput",
+      "d": "It only affects latency"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q20",
+    "question": "How can a larger network buffer affect latency and throughput?",
+    "options": {
+      "a": "It can increase latency but also help maintain throughput during bursts of traffic",
+      "b": "It always decreases both latency and throughput",
+      "c": "It has no effect on network performance",
+      "d": "It only improves the security of the network"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q21",
+    "question": "What is 'bandwidth' and how does it relate to throughput?",
+    "options": {
+      "a": "Bandwidth is the actual measured data transfer rate, while throughput is the theoretical maximum.",
+      "b": "Bandwidth is the theoretical maximum data transfer rate, while throughput is the actual measured rate.",
+      "c": "Bandwidth and throughput are the same thing.",
+      "d": "Bandwidth is a measure of latency."
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q22",
+    "question": "Why might a system with high throughput still have poor performance for some applications?",
+    "options": {
+      "a": "Because high throughput always means low latency.",
+      "b": "Because the system might have high latency, which is critical for interactive applications.",
+      "c": "Because throughput is not a real measure of performance.",
+      "d": "Because the system is not secure."
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q23",
+    "question": "What is the role of a load balancer in managing throughput?",
+    "options": {
+      "a": "It slows down traffic to reduce latency.",
+      "b": "It distributes incoming traffic across multiple servers to increase overall throughput.",
+      "c": "It encrypts all network traffic.",
+      "d": "It only works for small websites."
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q24",
+    "question": "How does the choice of network protocol (e.g., TCP vs. UDP) affect the latency-throughput trade-off?",
+    "options": {
+      "a": "It has no effect on performance.",
+      "b": "TCP prioritizes reliability, which can increase latency, while UDP prioritizes speed and low latency.",
+      "c": "UDP is always better than TCP for all applications.",
+      "d": "TCP is only used for streaming video."
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q25",
+    "question": "What is a common symptom of a network bottleneck?",
+    "options": {
+      "a": "The network cable is too short.",
+      "b": "A component in the network path is limiting the overall throughput.",
+      "c": "The server has too much RAM.",
+      "d": "The user's monitor is too small."
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q26",
+    "question": "How can parallel connections be used to improve throughput?",
+    "options": {
+      "a": "By sending all data through a single, very fast connection.",
+      "b": "By opening multiple data streams simultaneously to transfer more data in parallel.",
+      "c": "By slowing down each connection to avoid errors.",
+      "d": "Parallel connections only increase latency."
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q27",
+    "question": "What is the impact of round-trip time (RTT) on latency?",
+    "options": {
+      "a": "RTT is the same as throughput.",
+      "b": "RTT is a measure of the time it takes for a signal to be sent plus the time it takes for an acknowledgment of that signal to be received, and is a major component of latency.",
+      "c": "RTT has no impact on latency.",
+      "d": "A lower RTT means higher latency."
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q28",
+    "question": "Why is it important to measure network performance from the end-user's perspective?",
+    "options": {
+      "a": "It is not important; server-side metrics are all that matter.",
+      "b": "Because the user's perception of performance is what ultimately determines the success of an application.",
+      "c": "Because it is easier to measure from the user's side.",
+      "d": "Because users are more likely to report accurate numbers."
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q29",
+    "question": "How can data compression affect latency and throughput?",
+    "options": {
+      "a": "It increases the amount of data to be sent, which increases latency.",
+      "b": "It reduces the amount of data to be sent, which can decrease latency and increase effective throughput, but adds processing overhead.",
+      "c": "It has no effect on performance.",
+      "d": "It only works for text files."
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q30",
+    "question": "What is the main takeaway from the 'latency-throughput tug-of-war'?",
+    "options": {
+      "a": "You can always have both low latency and high throughput.",
+      "b": "The ideal balance between latency and throughput depends on the specific needs of the application.",
+      "c": "Latency is always more important than throughput.",
+      "d": "Throughput is always more important than latency."
+    },
+    "correct": "b"
+  }
+]
