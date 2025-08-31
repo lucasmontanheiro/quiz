@@ -1,0 +1,332 @@
+[
+  {
+    "id": "q1",
+    "question": "What does OLTP stand for?",
+    "options": {
+      "a": "Online Transactional Processing",
+      "b": "Online Transfer Protocol",
+      "c": "Online Transactional Protocol",
+      "d": "Online Transfer Processing"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q2",
+    "question": "What does OLAP stand for?",
+    "options": {
+      "a": "Online Analytical Processing",
+      "b": "Online Analysis Protocol",
+      "c": "Online Analytical Protocol",
+      "d": "Online Analysis Processing"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q3",
+    "question": "What is the primary purpose of an OLTP system?",
+    "options": {
+      "a": "Executing a large number of real-time transactions",
+      "b": "Complex data analysis",
+      "c": "Data warehousing",
+      "d": "Batch processing"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q4",
+    "question": "What is the primary purpose of an OLAP system?",
+    "options": {
+      "a": "Complex data analysis and reporting",
+      "b": "Real-time transaction processing",
+      "c": "Data entry",
+      "d": "System administration"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q5",
+    "question": "Which type of system is optimized for a high volume of write operations?",
+    "options": {
+      "a": "OLTP",
+      "b": "OLAP",
+      "c": "Both",
+      "d": "Neither"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q6",
+    "question": "Which type of system is optimized for complex read operations and aggregations?",
+    "options": {
+      "a": "OLAP",
+      "b": "OLTP",
+      "c": "Both",
+      "d": "Neither"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q7",
+    "question": "The data in OLTP systems is typically...",
+    "options": {
+      "a": "Highly normalized",
+      "b": "Denormalized",
+      "c": "Archived",
+      "d": "Aggregated"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q8",
+    "question": "The data in OLAP systems is often...",
+    "options": {
+      "a": "Denormalized and aggregated",
+      "b": "Highly normalized",
+      "c": "Write-optimized",
+      "d": "Volatile"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q9",
+    "question": "Which system typically deals with historical data over a long period?",
+    "options": {
+      "a": "OLAP",
+      "b": "OLTP",
+      "c": "Both",
+      "d": "Neither"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q10",
+    "question": "Which system is focused on current, operational data?",
+    "options": {
+      "a": "OLTP",
+      "b": "OLAP",
+      "c": "Data Mart",
+      "d": "Data Warehouse"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q11",
+    "question": "An ATM withdrawal is a classic example of a transaction in which system?",
+    "options": {
+      "a": "OLTP",
+      "b": "OLAP",
+      "c": "Reporting System",
+      "d": "BI System"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q12",
+    "question": "Analyzing sales trends over the last five years is a typical task for which system?",
+    "options": {
+      "a": "OLAP",
+      "b": "OLTP",
+      "c": "Transactional Database",
+      "d": "Order Entry System"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q13",
+    "question": "What is a primary performance metric for OLTP systems?",
+    "options": {
+      "a": "Transactions per second",
+      "b": "Query response time for complex queries",
+      "c": "Data loading speed",
+      "d": "Storage capacity"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q14",
+    "question": "What is a primary performance metric for OLAP systems?",
+    "options": {
+      "a": "Query response time",
+      "b": "Number of concurrent users",
+      "c": "Write speed",
+      "d": "Uptime"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q15",
+    "question": "Which system design prioritizes data integrity and consistency using normalization?",
+    "options": {
+      "a": "OLTP",
+      "b": "OLAP",
+      "c": "Flat-file database",
+      "d": "NoSQL database"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q16",
+    "question": "Which database schema is commonly used in OLAP systems to facilitate analysis?",
+    "options": {
+      "a": "Star or Snowflake Schema",
+      "b": "Third Normal Form (3NF)",
+      "c": "Parent-Child Schema",
+      "d": "Graph Schema"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q17",
+    "question": "The workload in an OLTP system consists of...",
+    "options": {
+      "a": "Short, simple, predefined queries and updates",
+      "b": "Long, complex, ad-hoc queries",
+      "c": "Large data imports and exports",
+      "d": "Infrequent batch jobs"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q18",
+    "question": "The workload in an OLAP system is characterized by...",
+    "options": {
+      "a": "Complex, ad-hoc queries involving aggregations",
+      "b": "A high frequency of small updates",
+      "c": "Single-row lookups",
+      "d": "Locking and concurrency control"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q19",
+    "question": "Who are the typical users of an OLTP system?",
+    "options": {
+      "a": "Front-line workers (e.g., cashiers, bank tellers)",
+      "b": "Business analysts and data scientists",
+      "c": "Executives and managers",
+      "d": "Database administrators"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q20",
+    "question": "Who are the primary users of an OLAP system?",
+    "options": {
+      "a": "Business analysts, data scientists, and decision-makers",
+      "b": "Customers interacting with a website",
+      "c": "Application developers",
+      "d": "End-users performing daily tasks"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q21",
+    "question": "Which system is more likely to use data redundancy to improve query performance?",
+    "options": {
+      "a": "OLAP",
+      "b": "OLTP",
+      "c": "Both equally",
+      "d": "Neither"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q22",
+    "question": "Data scope in an OLTP system is typically...",
+    "options": {
+      "a": "Detailed and current",
+      "b": "Summarized and historical",
+      "c": "Archived and static",
+      "d": "External and unstructured"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q23",
+    "question": "Data scope in an OLAP system is typically...",
+    "options": {
+      "a": "Summarized, aggregated, and historical",
+      "b": "Detailed, atomic, and current",
+      "c": "Volatile and frequently updated",
+      "d": "Normalized and granular"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q24",
+    "question": "Which system serves as a source for a data warehouse?",
+    "options": {
+      "a": "OLTP",
+      "b": "OLAP",
+      "c": "A data mart",
+      "d": "A reporting server"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q25",
+    "question": "Which system is often the end-user interface to a data warehouse?",
+    "options": {
+      "a": "OLAP",
+      "b": "OLTP",
+      "c": "A transactional system",
+      "d": "An ERP system"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q26",
+    "question": "Operations in an OLTP system are typically...",
+    "options": {
+      "a": "Read/Write",
+      "b": "Read-only",
+      "c": "Bulk load",
+      "d": "Batch update"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q27",
+    "question": "Operations in an OLAP system are typically...",
+    "options": {
+      "a": "Read-only with ad-hoc queries",
+      "b": "A mix of frequent reads and writes",
+      "c": "Write-intensive",
+      "d": "Transactional"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q28",
+    "question": "Which system requires very fast response times, often in milliseconds?",
+    "options": {
+      "a": "OLTP",
+      "b": "OLAP",
+      "c": "Data Warehouse",
+      "d": "BI Platform"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q29",
+    "question": "Response times for queries in an OLAP system can range from...",
+    "options": {
+      "a": "Seconds to hours",
+      "b": "Milliseconds",
+      "c": "Always under a second",
+      "d": "Microseconds"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q30",
+    "question": "The number of rows accessed per transaction is typically small in which system?",
+    "options": {
+      "a": "OLTP",
+      "b": "OLAP",
+      "c": "Data Lake",
+      "d": "Analytics Platform"
+    },
+    "correct": "a"
+  }
+]

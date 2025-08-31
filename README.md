@@ -37,7 +37,7 @@ You need to serve the project files from a local web server.
 
     ```bash
     # For Python 3
-    python -m http.server
+    python3 -m http.server
     
     # For Python 2
     python -m SimpleHTTPServer

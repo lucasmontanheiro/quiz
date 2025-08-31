@@ -54,5 +54,9 @@
   {
     "subject": "Latency Throughput",
     "file": "latency_throughput.json"
+  },
+  {
+    "subject": "OLAP vs OLTP",
+    "file": "db03_olap_vs_oltp.json"
   }
 ]
