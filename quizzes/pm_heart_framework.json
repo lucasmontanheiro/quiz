@@ -1,5 +1,4 @@
-{
-  "quiz": [
+[
     {
       "id": "q1",
       "question": "What are the five categories of the Google HEART framework?",
@@ -220,5 +219,4 @@
       },
       "correct": "b"
     }
-  ]
-}
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "q1",
+    "question": "What does the 'C' in the CIRCLES product design framework stand for?",
+    "options": {
+      "a": "Clarify",
+      "b": "Comprehend the situation",
+      "c": "Customer",
+      "d": "Competition"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q2",
+    "question": "In the CIRCLES framework, what is the primary purpose of the 'I' (Identify Users) step?",
+    "options": {
+      "a": "To list all possible features",
+      "b": "To define the target user personas and their needs",
+      "c": "To investigate the competition",
+      "d": "To ignore edge cases"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q3",
+    "question": "What does the 'R' (Report Customer Needs) step in the CIRCLES framework primarily involve?",
+    "options": {
+      "a": "Creating a financial report",
+      "b": "Writing a press release",
+      "c": "Articulating user stories and pain points",
+      "d": "Reporting bugs to engineering"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q4",
+    "question": "Which step of the CIRCLES framework involves brainstorming a wide range of potential solutions?",
+    "options": {
+      "a": "Cut, through prioritization",
+      "b": "Clarify",
+      "c": "Identify Users",
+      "d": "List Solutions"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "q5",
+    "question": "What is the main purpose of the 'E' (Evaluate Trade-offs) step in the CIRCLES framework?",
+    "options": {
+      "a": "To choose the cheapest solution",
+      "b": "To analyze the pros and cons of the top solutions against constraints",
+      "c": "To eliminate all but one solution immediately",
+      "d": "To estimate the exact revenue impact"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q6",
+    "question": "What does the 'S' (Summarize) step of the CIRCLES framework entail at the end of a product question?",
+    "options": {
+      "a": "Providing a one-sentence answer",
+      "b": "Recommending a solution and outlining why it's the best choice",
+      "c": "Asking the interviewer for the correct answer",
+      "d": "Summarizing the user's life story"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q7",
+    "question": "In the CIRCLES framework, the 'Cut, through prioritization' step is for what purpose?",
+    "options": {
+      "a": "To reduce the number of users to consider",
+      "b": "To prioritize the brainstormed solutions based on defined criteria",
+      "c": "To cut the project budget",
+      "d": "To shorten the interview"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q8",
+    "question": "What is the primary goal of the Google HEART framework?",
+    "options": {
+      "a": "To measure and improve the user experience of a product",
+      "b": "To prioritize engineering tasks",
+      "c": "To calculate the return on investment (ROI) of a feature",
+      "d": "To structure a product design interview answer"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "q9",
+    "question": "Which HEART category would a metric like 'Net Promoter Score (NPS)' or a user satisfaction survey fall under?",
+    "options": {
+      "a": "Engagement",
+      "b": "Adoption",
+      "c": "Happiness",
+      "d": "Task Success"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q10",
+    "question": "How is 'Engagement' typically measured within the HEART framework?",
+    "options": {
+      "a": "Number of new users acquired in a period",
+      "b": "Frequency, intensity, or depth of interaction over time",
+      "c": "The percentage of users who complete a specific task",
+      "d": "How happy users say they are"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q11",
+    "question": "What does 'Task Success' in the HEART framework focus on?",
+    "options": {
+      "a": "How many tasks a user completes in total",
+      "b": "The user's emotional response to a task",
+      "c": "The efficiency, effectiveness, and error rate of users completing a key task",
+      "d": "The number of users who start a task"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q12",
+    "question": "What does the 'R' in the RICE prioritization framework stand for?",
+    "options": {
+      "a": "Revenue",
+      "b": "Resources",
+      "c": "Reach",
+      "d": "Risk"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q13",
+    "question": "In the RICE framework, how is 'Impact' typically scored?",
+    "options": {
+      "a": "On a scale of 1 to 10 based on engineering complexity",
+      "b": "A score representing the expected number of new users",
+      "c": "A qualitative score (e.g., 3 for 'massive', 2 for 'high', 1 for 'medium')",
+      "d": "The exact dollar amount the feature will generate"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q14",
+    "question": "What is the purpose of the 'Confidence' score in the RICE framework?",
+    "options": {
+      "a": "To measure how confident the CEO is in the project",
+      "b": "To account for uncertainty in the estimates for Reach, Impact, and Effort",
+      "c": "To score how much users will trust the new feature",
+      "d": "To represent the percentage of work completed"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q15",
+    "question": "How is the final RICE score calculated?",
+    "options": {
+      "a": "(Reach + Impact + Confidence) / Effort",
+      "b": "(Reach * Impact * Confidence) / Effort",
+      "c": "Reach * Impact * Effort * Confidence",
+      "d": "Reach + Impact - Effort"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q16",
+    "question": "What does the 'S' in the STAR method for behavioral interviews stand for?",
+    "options": {
+      "a": "Solution",
+      "b": "Strategy",
+      "c": "Situation",
+      "d": "Success"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q17",
+    "question": "In the STAR method, what should be described in the 'T' (Task) part?",
+    "options": {
+      "a": "The team members you worked with",
+      "b": "Your specific responsibility or goal in the situation",
+      "c": "The technical skills you used",
+      "d": "The time it took to complete the project"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q18",
+    "question": "Which part of the STAR method is most critical for demonstrating a candidate's individual contribution and skills?",
+    "options": {
+      "a": "Situation",
+      "b": "Task",
+      "c": "Action",
+      "d": "Result"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q19",
+    "question": "What does the 'R' (Result) in the STAR method focus on?",
+    "options": {
+      "a": "The revenue generated by the project",
+      "b": "The quantifiable outcome of your actions",
+      "c": "A reflection on what you could have done better",
+      "d": "The reward you received for your work"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q20",
+    "question": "Why is the STAR method particularly effective for answering behavioral interview questions?",
+    "options": {
+      "a": "It allows candidates to give very short, simple answers",
+      "b": "It provides a structured narrative that is easy for interviewers to follow and assess",
+      "c": "It focuses entirely on the candidate's personality",
+      "d": "It guarantees the candidate will get the job"
+    },
+    "correct": "b"
+  }
+]
