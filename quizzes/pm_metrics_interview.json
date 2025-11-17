@@ -1,0 +1,222 @@
+[
+  {
+    "id": "q1",
+    "question": "What does the 'D' in the DEC method (for addressing metric changes) stand for?",
+    "options": {
+      "a": "Develop a solution",
+      "b": "Define the change",
+      "c": "Delegate tasks",
+      "d": "Discover new metrics"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q2",
+    "question": "What is the primary goal of the 'E' (Explore Root Causes) step in the DEC method?",
+    "options": {
+      "a": "To implement a quick fix",
+      "b": "To identify all potential factors contributing to the metric change",
+      "c": "To blame the engineering team",
+      "d": "To ignore the problem"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q3",
+    "question": "Which of the following is an example of an *internal* root cause for a sudden drop in a product's engagement metric?",
+    "options": {
+      "a": "A new competitor launched a similar product",
+      "b": "A recent software bug introduced in the latest release",
+      "c": "A change in market trends",
+      "d": "A global economic downturn"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q4",
+    "question": "Which of the following is an example of an *external* root cause for an unexpected increase in user sign-ups?",
+    "options": {
+      "a": "A successful marketing campaign launched by the company",
+      "b": "A new feature release that went viral",
+      "c": "A major competitor experienced a service outage",
+      "d": "An improvement in server performance"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q5",
+    "question": "What is the final step of the DEC method after defining the change and exploring root causes?",
+    "options": {
+      "a": "Ignore the metric",
+      "b": "Conclude with a recommended action",
+      "c": "Start over with a new metric",
+      "d": "Blame external factors"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q6",
+    "question": "What is a common metric used to measure user acquisition?",
+    "options": {
+      "a": "Daily Active Users (DAU)",
+      "b": "Customer Lifetime Value (CLTV)",
+      "c": "Cost Per Acquisition (CPA)",
+      "d": "Churn Rate"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q7",
+    "question": "Which metric is crucial for understanding how frequently and deeply users interact with a product over time?",
+    "options": {
+      "a": "Retention Rate",
+      "b": "Average Revenue Per User (ARPU)",
+      "c": "Engagement Rate",
+      "d": "Conversion Rate"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q8",
+    "question": "What does 'Churn Rate' primarily measure in product management?",
+    "options": {
+      "a": "The rate at which new users are acquired",
+      "b": "The percentage of users who stop using a product or service over a given period",
+      "c": "The speed at which features are developed",
+      "d": "The total number of active users"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q9",
+    "question": "What defines a 'North Star Metric' for a product?",
+    "options": {
+      "a": "A metric that is easy to manipulate",
+      "b": "A single, critical metric that best captures the core value your product delivers to customers",
+      "c": "Any metric that shows positive growth",
+      "d": "A metric used only for investor reports"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q10",
+    "question": "Why is it important for Product Managers to consider metric trade-offs?",
+    "options": {
+      "a": "To avoid having too many metrics",
+      "b": "Because improving one metric might negatively impact another important metric",
+      "c": "To simplify reporting to stakeholders",
+      "d": "To justify not tracking certain metrics"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q11",
+    "question": "Which of the following is an example of a 'vanity metric'?",
+    "options": {
+      "a": "Customer Retention Rate",
+      "b": "Monthly Active Users (MAU)",
+      "c": "Number of app downloads (without considering active usage)",
+      "d": "Conversion Rate from trial to paid"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q12",
+    "question": "What is the primary purpose of a 'guardrail metric'?",
+    "options": {
+      "a": "To measure the success of a new feature",
+      "b": "To ensure that optimizing for a North Star Metric doesn't negatively impact other critical areas",
+      "c": "To track the performance of individual team members",
+      "d": "To predict future market trends"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q13",
+    "question": "What does ARPU stand for in the context of product metrics?",
+    "options": {
+      "a": "Annual Revenue Per Unit",
+      "b": "Average Revenue Per User",
+      "c": "Active Registered Product Users",
+      "d": "Automated Reporting and Performance Updates"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q14",
+    "question": "What is generally considered the first step in data-driven decision-making for a Product Manager?",
+    "options": {
+      "a": "Collecting all available data",
+      "b": "Defining the problem or question to be answered",
+      "c": "Building a dashboard",
+      "d": "Implementing a new feature"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q15",
+    "question": "Why is A/B testing an important tool for Product Managers?",
+    "options": {
+      "a": "It allows for simultaneous launch of multiple features",
+      "b": "It helps validate hypotheses about user behavior and feature impact with data",
+      "c": "It replaces the need for user research",
+      "d": "It is a quick way to fix bugs"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q16",
+    "question": "What is a significant risk of making product decisions based solely on intuition without supporting data?",
+    "options": {
+      "a": "Decisions will always be wrong",
+      "b": "It can lead to biased outcomes and features that don't meet user needs",
+      "c": "It slows down the development process",
+      "d": "It makes the product manager seem too confident"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q17",
+    "question": "How can a Product Manager best ensure the quality and reliability of data used for decision-making?",
+    "options": {
+      "a": "By only using data that confirms their existing beliefs",
+      "b": "By implementing robust tracking, data validation, and regular audits",
+      "c": "By asking the engineering team to guess the numbers",
+      "d": "By ignoring outliers in the data"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q18",
+    "question": "What is a key benefit of conducting mock interviews specifically for PM roles?",
+    "options": {
+      "a": "It guarantees a job offer",
+      "b": "It helps practice structured thinking and articulating answers under pressure",
+      "c": "It eliminates the need for real interviews",
+      "d": "It provides a list of all possible interview questions"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q19",
+    "question": "What type of questions are commonly asked in PM interviews regarding metrics?",
+    "options": {
+      "a": "Only questions about the latest industry trends",
+      "b": "Questions about defining metrics, diagnosing metric changes, and metric trade-offs",
+      "c": "Questions about personal preferences for metrics",
+      "d": "Only questions about how to build a dashboard"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q20",
+    "question": "Why is understanding the 'why' behind a metric important for a Product Manager, especially in an interview setting?",
+    "options": {
+      "a": "To show off technical knowledge",
+      "b": "To demonstrate strategic thinking and alignment with business and user goals",
+      "c": "To avoid discussing the actual numbers",
+      "d": "To prove memorization skills"
+    },
+    "correct": "b"
+  }
+]

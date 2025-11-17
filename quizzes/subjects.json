@@ -66,5 +66,9 @@
   {
     "subject": "PM: HEART Framework",
     "file": "pm_heart_framework.json"
+  },
+  {
+    "subject": "PM: CIRCLES & STAR Frameworks",
+    "file": "pm_circles_star.json"
   }
 ]
