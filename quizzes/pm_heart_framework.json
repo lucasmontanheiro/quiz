@@ -1,0 +1,224 @@
+{
+  "quiz": [
+    {
+      "id": "q1",
+      "question": "What are the five categories of the Google HEART framework?",
+      "options": {
+        "a": "Happiness, Engagement, Adoption, Retention, Task Success",
+        "b": "Health, Efficiency, Accuracy, Reliability, Trust",
+        "c": "Happiness, Efficiency, Activity, Reliability, Trends",
+        "d": "Humanity, Engagement, Accessibility, Retention, Transparency"
+      },
+      "correct": "a"
+    },
+    {
+      "id": "q2",
+      "question": "Which HEART category focuses on users’ attitudes, perceptions, and satisfaction with a product?",
+      "options": {
+        "a": "Engagement",
+        "b": "Happiness",
+        "c": "Task Success",
+        "d": "Retention"
+      },
+      "correct": "b"
+    },
+    {
+      "id": "q3",
+      "question": "In the HEART framework, which category is typically measured using metrics like DAU, time spent, or frequency of core actions?",
+      "options": {
+        "a": "Adoption",
+        "b": "Task Success",
+        "c": "Engagement",
+        "d": "Retention"
+      },
+      "correct": "c"
+    },
+    {
+      "id": "q4",
+      "question": "What does the 'Adoption' category in the HEART framework primarily measure?",
+      "options": {
+        "a": "How long users stay active each session",
+        "b": "How many new users start using the product or feature",
+        "c": "How satisfied users are with the product",
+        "d": "How efficiently users can complete tasks"
+      },
+      "correct": "b"
+    },
+    {
+      "id": "q5",
+      "question": "Which HEART category evaluates whether users return to a product over time?",
+      "options": {
+        "a": "Task Success",
+        "b": "Engagement",
+        "c": "Retention",
+        "d": "Happiness"
+      },
+      "correct": "c"
+    },
+    {
+      "id": "q6",
+      "question": "What is the main purpose of the 'Task Success' category within the HEART model?",
+      "options": {
+        "a": "To measure emotional satisfaction",
+        "b": "To evaluate how effectively and efficiently users complete key tasks",
+        "c": "To track the number of returning users",
+        "d": "To measure feature-level adoption"
+      },
+      "correct": "b"
+    },
+    {
+      "id": "q7",
+      "question": "What does GSM stand for in Google's UX measurement process?",
+      "options": {
+        "a": "Goals, Signals, Metrics",
+        "b": "Growth, Scale, Measurement",
+        "c": "Goals, Systems, Methods",
+        "d": "Generate, Standardize, Measure"
+      },
+      "correct": "a"
+    },
+    {
+      "id": "q8",
+      "question": "In the GSM model, what role do 'Goals' play?",
+      "options": {
+        "a": "They provide raw data for dashboards",
+        "b": "They identify user behaviors without defining direction",
+        "c": "They define the high-level outcomes the product aims to achieve",
+        "d": "They specify the exact numerical KPIs to track"
+      },
+      "correct": "c"
+    },
+    {
+      "id": "q9",
+      "question": "What are 'Signals' in the GSM framework?",
+      "options": {
+        "a": "High-level product goals",
+        "b": "User behaviors or patterns that indicate progress toward goals",
+        "c": "The raw data points displayed in dashboards",
+        "d": "Technical performance metrics"
+      },
+      "correct": "b"
+    },
+    {
+      "id": "q10",
+      "question": "How do 'Metrics' in the GSM framework differ from 'Signals'?",
+      "options": {
+        "a": "Metrics describe behaviors, while signals represent data trends",
+        "b": "Metrics quantify signals into measurable numbers",
+        "c": "Metrics are qualitative while signals are quantitative",
+        "d": "Metrics are goals and signals are outcomes"
+      },
+      "correct": "b"
+    },
+    {
+      "id": "q11",
+      "question": "Why are HEART and GSM commonly used together in UX measurement?",
+      "options": {
+        "a": "GSM supplies the categories and HEART supplies the data",
+        "b": "HEART defines strategic objectives while GSM measures revenue impact",
+        "c": "HEART provides UX dimensions while GSM maps them to measurable metrics",
+        "d": "HEART is qualitative while GSM is philosophical"
+      },
+      "correct": "c"
+    },
+    {
+      "id": "q12",
+      "question": "Which HEART metrics were found to significantly impact reuse intention in the G2C tourism service study?",
+      "options": {
+        "a": "Happiness and Adoption",
+        "b": "Engagement, Retention, and Task Success",
+        "c": "Adoption and Retention only",
+        "d": "Engagement and Happiness"
+      },
+      "correct": "b"
+    },
+    {
+      "id": "q13",
+      "question": "Why might Adoption and Retention metrics be dropped when applying HEART to enterprise environments?",
+      "options": {
+        "a": "Enterprise users lack clear task flows",
+        "b": "Enterprise tools do not require user happiness",
+        "c": "Users are mandated to use the tools, making adoption and retention irrelevant",
+        "d": "Enterprise environments focus only on revenue metrics"
+      },
+      "correct": "c"
+    },
+    {
+      "id": "q14",
+      "question": "What is one limitation of applying HEART and GSM directly to enterprise tools?",
+      "options": {
+        "a": "They do not support user research",
+        "b": "Enterprise tools rarely track any user data",
+        "c": "Some UX metrics are not meaningful when usage is not optional",
+        "d": "They cannot measure productivity outcomes"
+      },
+      "correct": "c"
+    },
+    {
+      "id": "q15",
+      "question": "In the example comparing ChatGPT and Google Bard, which HEART dimension could be used to measure perceived satisfaction or delight?",
+      "options": {
+        "a": "Task Success",
+        "b": "Engagement",
+        "c": "Happiness",
+        "d": "Adoption"
+      },
+      "correct": "c"
+    },
+    {
+      "id": "q16",
+      "question": "What type of metric might be used to evaluate Task Success for an AI tool like ChatGPT?",
+      "options": {
+        "a": "Number of new signups",
+        "b": "Time to generate a correct answer",
+        "c": "Number of sessions per user",
+        "d": "User referrals"
+      },
+      "correct": "b"
+    },
+    {
+      "id": "q17",
+      "question": "How might Engagement be measured for AI tools in a comparative HEART study?",
+      "options": {
+        "a": "Frequency of user prompts or interactions",
+        "b": "Retention of weekly users",
+        "c": "Task error rate",
+        "d": "User satisfaction rating"
+      },
+      "correct": "a"
+    },
+    {
+      "id": "q18",
+      "question": "Why is the HEART framework especially valuable for UX teams building large-scale consumer products?",
+      "options": {
+        "a": "It replaces the need for qualitative research",
+        "b": "It provides structured, scalable metrics aligned with user experience",
+        "c": "It focuses primarily on monetization",
+        "d": "It eliminates the need for dashboards"
+      },
+      "correct": "b"
+    },
+    {
+      "id": "q19",
+      "question": "How does the GSM process ensure HEART metrics are tied to meaningful product outcomes?",
+      "options": {
+        "a": "By removing behavioral signals",
+        "b": "By requiring all metrics to be revenue-focused",
+        "c": "By mapping goals to signals and turning signals into measurable metrics",
+        "d": "By standardizing all UX scores across products"
+      },
+      "correct": "c"
+    },
+    {
+      "id": "q20",
+      "question": "What is the general relationship between user-centered metrics like Engagement or Task Success and long-term product success?",
+      "options": {
+        "a": "They are unrelated",
+        "b": "Improvement in these metrics generally predicts better long-term usage and satisfaction",
+        "c": "They only matter during initial launch phases",
+        "d": "They are useful only for marketing teams"
+      },
+      "correct": "b"
+    }
+  ]
+}

@@ -58,5 +58,14 @@
   {
     "subject": "OLAP vs OLTP",
     "file": "db03_olap_vs_oltp.json"
+  },
+  {
+    "subject": "PM: Metrics",
+    "file": "pm_metrics.json"
+  },
+  {
+    "subject": "PM: HEART Framework",
+    "file": "pm_heart_framework.json"
   }
+
 ]

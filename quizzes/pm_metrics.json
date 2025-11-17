@@ -1,0 +1,222 @@
+[
+  {
+    "id": "q1",
+    "question": "According to the framework, what is the primary purpose of choosing the right product metrics?",
+    "options": {
+      "a": "To generate investor reports",
+      "b": "To define success, align the team, and drive data-informed decisions",
+      "c": "To compare performance with competitors",
+      "d": "To increase the number of KPIs used in dashboards"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q2",
+    "question": "What is the key outcome of Step 1: Ground Yourself in the 'Why'?",
+    "options": {
+      "a": "A finalized feature roadmap",
+      "b": "A clear, written strategic hypothesis",
+      "c": "A complete user interface design",
+      "d": "A list of customer complaints"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q3",
+    "question": "Which of the following is *not* one of the foundational questions in Step 1?",
+    "options": {
+      "a": "What business objective does this feature serve?",
+      "b": "What is the competitive pricing model?",
+      "c": "What user problem are we solving?",
+      "d": "What outcome do we expect to see?"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q4",
+    "question": "What does Step 2 emphasize when mapping the user journey?",
+    "options": {
+      "a": "Finding opportunities for cost reduction",
+      "b": "Identifying 'Moments of Truth' where value is delivered",
+      "c": "Benchmarking market competitors",
+      "d": "Defining quarterly OKRs"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q5",
+    "question": "Which part of the user journey focuses on whether users integrate the product into their workflow?",
+    "options": {
+      "a": "Discovery & Onboarding",
+      "b": "Core Usage",
+      "c": "Adoption & Habit Formation",
+      "d": "Retention & Advocacy"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q6",
+    "question": "What defines a good North Star Metric (NSM)?",
+    "options": {
+      "a": "It is simple and always revenue-based",
+      "b": "It is lagging and used mainly for reporting",
+      "c": "It is customer-centric, leading, and actionable",
+      "d": "It is easy to measure with existing dashboards"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q7",
+    "question": "Which metric category ensures the team isn’t achieving goals at the expense of user experience?",
+    "options": {
+      "a": "Business Metrics",
+      "b": "Input Metrics",
+      "c": "North Star Metric",
+      "d": "Guardrail Metrics"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "q8",
+    "question": "Which of the following is an example of an Input/Driver Metric?",
+    "options": {
+      "a": "App uninstall rate",
+      "b": "Revenue per user",
+      "c": "Activation rate",
+      "d": "Customer lifetime value"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q9",
+    "question": "Which metric category is directly tied to the business goal defined in Step 1?",
+    "options": {
+      "a": "Guardrail Metrics",
+      "b": "Business Metrics",
+      "c": "Input Metrics",
+      "d": "Happiness Metrics"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q10",
+    "question": "In the HEART framework, which category measures user satisfaction?",
+    "options": {
+      "a": "Engagement",
+      "b": "Adoption",
+      "c": "Happiness",
+      "d": "Task Success"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q11",
+    "question": "Which HEART category evaluates whether users can complete key tasks?",
+    "options": {
+      "a": "Retention",
+      "b": "Task Success",
+      "c": "Happiness",
+      "d": "Engagement"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q12",
+    "question": "What is a critical part of Step 5: Operationalize and Instrument?",
+    "options": {
+      "a": "Creating marketing campaigns",
+      "b": "Developing a metrics dictionary with unambiguous definitions",
+      "c": "Interviewing competitors",
+      "d": "Eliminating low-performing metrics"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q13",
+    "question": "Why is instrumentation prioritized as part of the feature’s Definition of Done?",
+    "options": {
+      "a": "To ensure marketing can promote the feature effectively",
+      "b": "To track metrics reliably from day one",
+      "c": "To shorten engineering cycles",
+      "d": "To comply with industry regulations"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q14",
+    "question": "What is the primary purpose of establishing baselines and targets in Step 6?",
+    "options": {
+      "a": "To prepare investor presentations",
+      "b": "To support long-term hiring plans",
+      "c": "To validate hypotheses and guide future decisions",
+      "d": "To replace qualitative research methods"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q15",
+    "question": "What type of information is commonly reviewed in the recurring metrics cadence?",
+    "options": {
+      "a": "Code quality audits",
+      "b": "Hypotheses proven or disproven",
+      "c": "Employee satisfaction scores",
+      "d": "Brand awareness metrics"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q16",
+    "question": "In the example of the collaborative to-do list feature, what is the chosen North Star Metric?",
+    "options": {
+      "a": "Monthly revenue from premium teams",
+      "b": "Weekly Teams Actively Using a Collaborative List",
+      "c": "Daily active users",
+      "d": "Number of tasks created per day"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q17",
+    "question": "Which is an example of a guardrail metric in the collaborative to-do list example?",
+    "options": {
+      "a": "Tasks created per week",
+      "b": "List creation rate",
+      "c": "User satisfaction with the feature",
+      "d": "Free-to-paid conversion rate"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "q18",
+    "question": "Which HEART metric aligns with 'Tasks created per week, per user' in the example?",
+    "options": {
+      "a": "Happiness",
+      "b": "Engagement",
+      "c": "Retention",
+      "d": "Task Success"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q19",
+    "question": "Why is a system of interconnected metrics preferred over a single metric?",
+    "options": {
+      "a": "It reduces dashboard load time",
+      "b": "One metric cannot represent customer value, business health, and performance holistically",
+      "c": "It is required by most analytics platforms",
+      "d": "It makes reporting more visually appealing"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "q20",
+    "question": "What does the Strategic Hypothesis help the team understand?",
+    "options": {
+      "a": "The engineering effort required for the feature",
+      "b": "What outcome the feature is expected to achieve and how success will be measured",
+      "c": "How the feature compares to competitors’ offerings",
+      "d": "How many users requested the feature"
+    },
+    "correct": "b"
+  }
+]
